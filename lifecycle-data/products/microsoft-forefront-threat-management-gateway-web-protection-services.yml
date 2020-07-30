@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Services de protection Web de la passerelle de gestion des menaces Microsoft Forefront
+  description: Microsoft Forefront Threat Management Gateway Services de protection Web suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "816095"
+name: Services de protection Web de la passerelle de gestion des menaces Microsoft Forefront
+summary: >+
+  Microsoft Forefront Threat Management Gateway Services de protection Web suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/01/2009
+  end: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Liens \n* [Feuille de route Forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> La feuille de route pour les produits de sécurité sous la marque Forefront a changé.Ce produit est abandonné depuis le 31 décembre 2015."
