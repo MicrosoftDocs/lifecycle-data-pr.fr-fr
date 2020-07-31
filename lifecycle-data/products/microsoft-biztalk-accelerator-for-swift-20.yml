@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk Accelerator pour SWIFT 2,0
+  description: Microsoft BizTalk Accelerator for SWIFT 2,0 suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "816161"
+name: Microsoft BizTalk Accelerator pour SWIFT 2,0
+summary: >+
+  Microsoft BizTalk Accelerator for SWIFT 2,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+  Cela s’applique aux éditions suivantes : entreprise
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 09/25/2004
+  end: 10/13/2009
+  extendedEnd: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 09/25/2004
+  endDate: 10/14/2014
+content: "\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise"

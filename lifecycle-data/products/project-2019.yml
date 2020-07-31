@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Projet 2019
+  description: Le projet 2019 suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 45a8867c9d0b7cde39aa153cc117dfb17a180dea
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869258"
+name: Projet 2019
+summary: >+
+  Le projet 2019 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+  Cela s’applique aux éditions suivantes : professionnel, standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>Premium \n* Professionnel\n* Standard"

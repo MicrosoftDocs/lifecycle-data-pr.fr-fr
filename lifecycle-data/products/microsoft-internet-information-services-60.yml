@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Internet Information Services 6,0
+  description: Microsoft Internet Information Services 6,0 suit la stratégie de cycle de vie des composants.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9fa80841324fc24ce8644f57af455c1a512c817f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "816091"
+name: Microsoft Internet Information Services 6,0
+summary: >+
+  Microsoft Internet Information Services 6,0 suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 05/28/2003
+releases:
+- version: Original Release
+  startDate: 05/28/2003
+content: "\n\n> [!NOTE]\n> Cette version est appelée un composant qui suit le cycle de vie de la prise en charge de son parent principal produit, Windows Server 2003"

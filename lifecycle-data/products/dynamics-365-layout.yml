@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mise en page Dynamics 365
+  description: La disposition Dynamics 365 suit la stratégie de cycle de vie moderne.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869171"
+name: Mise en page Dynamics 365
+summary: >+
+  La disposition Dynamics 365 suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+  end: 12/31/2021
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+  endDate: 12/31/2021
+content: "\n## <a name=\"links\"></a>Liens \n* [Mise en page et assistance à distance](/dynamics365/mixed-reality/layout/faq)"

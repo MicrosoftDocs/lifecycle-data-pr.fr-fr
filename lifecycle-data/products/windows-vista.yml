@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Windows Vista suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "815602"
+name: Windows Vista
+summary: >
+  Windows Vista suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+  Cela s’applique aux éditions suivantes : Business, Business N, Enterprise, Enterprise x64, Home Basic, Home Basic 64 bits, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+
+
+  > [!IMPORTANT]
+
+  > La prise en charge de ce produit est terminée, voir ci-dessous pour plus d’informations sur la migration.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Considérations relatives à la mise à niveau et à la migration Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Business\n* Business N\n* Entreprise\n* Enterprise x64\n* Édition familiale basique\n* Édition familiale basique 64 bits\n* Édition Familiale Basique N\n* Édition Familiale Basique N 64 bits\n* Édition familiale Premium\n* Édition familiale Premium 64 bits\n* Départ\n* Souplesse\n* Ultimate 64 bits"
