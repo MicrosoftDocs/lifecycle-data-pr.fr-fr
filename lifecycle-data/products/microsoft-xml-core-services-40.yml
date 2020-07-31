@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft XML Core Services 4,0
+  description: Microsoft XML Core Services 4,0 suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "816011"
+name: Microsoft XML Core Services 4,0
+summary: >+
+  Microsoft XML Core Services 4,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+products:
+- vs
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/28/2009
+  end: 04/12/2014
+releases:
+- version: Service Pack 3
+  startDate: 12/28/2009
+  endDate: 04/12/2014
+content: "\n\n> [!NOTE]\n> La prise en charge de XML Core Services 4,0 s’est terminée. La prise en charge était uniquement disponible pour le Service Pack 3."

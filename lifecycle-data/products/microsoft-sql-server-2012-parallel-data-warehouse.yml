@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2012 parallèle Data Warehouse (système de plateforme d’analyse)
+  description: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869297"
+name: Microsoft SQL Server 2012 parallèle Data Warehouse (système de plateforme d’analyse)
+summary: >
+  Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > L’entrepôt de données parallèles SQL Server 2012 (PDW) a été rebaptisé APS (système de plateforme d’analyse)
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/12/2013
+  end: 10/08/2019
+  extendedEnd: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 07/12/2013
+  endDate: 10/08/2024
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](https://www.microsoft.com/sql-server/analytics-platform-system)"

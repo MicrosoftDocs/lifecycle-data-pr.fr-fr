@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Workflow Manager 1.0
+  description: Workflow Manager 1,0 suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853464"
+name: Workflow Manager 1.0
+summary: >+
+  Workflow Manager 1,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+  Cela s’applique aux éditions suivantes : client
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations de maintenance de SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Informations de maintenance de SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Lorsque Workflow Manager est un composant de SharePoint Server 2016 ou SharePoint Server 2013, il est pris en charge en fonction de la fin des dates de prise en charge de la version SharePoint Server respective.\n\n## <a name=\"editions\"></a>Premium \n* Client"

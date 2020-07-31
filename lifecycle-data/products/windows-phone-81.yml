@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Ce paramètre est disponible sur les types d’appareils suivants :'
+  description: Windows Phone 8,1 suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853466"
+name: 'Ce paramètre est disponible sur les types d’appareils suivants :'
+summary: >
+  Windows Phone 8,1 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > La prise en charge de ce produit a pris fin.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Liens \n* [Forum aux questions sur Windows Phone 8,1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft mettra à disposition les mises à jour du système d’exploitation, y compris les mises à jour de sécurité, pendant un minimum de 36 mois après la date de début du cycle de vie. Ces mises à jour sont incrémentielles, chaque mise à jour étant basée sur la mise à jour qui l’a précédée. Les clients doivent installer chaque mise à jour pour rester pris en charge. La distribution de ces mises à jour incrémentielles peut être contrôlée par l’opérateur mobile ou le fabricant du téléphone à partir duquel vous avez acheté votre téléphone, et l’installation nécessitera que votre téléphone comporte des mises à jour préalables. La disponibilité de la mise à jour dépend également des fonctionnalités de pays, de région et de matériel."

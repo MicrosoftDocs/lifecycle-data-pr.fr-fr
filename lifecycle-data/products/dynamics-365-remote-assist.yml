@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 assistance à distance
+  description: Dynamics 365 Remote Assist suit la stratégie de cycle de vie moderne.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869170"
+name: Dynamics 365 assistance à distance
+summary: >+
+  Dynamics 365 Remote Assist suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+content: "\n## <a name=\"links\"></a>Liens \n* [Mise en page et assistance à distance](/dynamics365/mixed-reality/layout/faq)"

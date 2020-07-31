@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 suit la stratégie de cycle de vie fixe.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853373"
+name: Windows Small Business Server 2011
+summary: >
+  Windows Small Business Server 2011 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+
+
+  Cela s’applique aux éditions suivantes : Essentials, complément Premium, standard
+
+
+  > [!IMPORTANT]
+
+  > La date de prise en charge de ce package de produit est déterminée par le cycle de vie respectif de chaque composant produit. Consultez le cycle de vie du produit du composant individuel pour déterminer sa durée de prise en charge.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://aka.ms/AA1ovn4)\n* [Migrer la norme Windows Small Business Server 2011 vers Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Premium \n* Essentials\n* Complément Premium\n* Standard"
