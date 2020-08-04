@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Informations de cycle de vie des services et des produits de recherche (aperçu)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Cette page est en cours de développement. Pour obtenir la liste complète des produits Microsoft, ainsi que leurs chronologies et détails, consultez [aka.ms/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n\n\nLe cycle de vie de Microsoft fournit des directives cohérentes et prévisibles pour le support tout au long de la vie d’un produit, ce qui permet aux clients de gérer leurs investissements et leurs environnements informatiques tout en planifiant une planification stratégique pour le futur.\n\n\nRecherchez ci-dessous une liste de produits et services commerciaux Microsoft, puis sélectionnez votre résultat pour trouver des calendriers de maintenance, des mises à jour requises, des informations sur la migration et la configuration système requise."
+summary: "\n\n> [!IMPORTANT]\n> Cette page est en cours de développement. Pour obtenir la liste complète des produits Microsoft, ainsi que leurs chronologies et détails, consultez [aka.ms/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Exporter les informations de cycle de vie à partir de la page [exportation du cycle de vie](/lifecycle/export/products) .\n\n\nLe cycle de vie de Microsoft fournit des directives cohérentes et prévisibles pour le support tout au long de la vie d’un produit, ce qui permet aux clients de gérer leurs investissements et leurs environnements informatiques tout en planifiant une planification stratégique pour le futur.\n\n\nRecherchez ci-dessous une liste de produits et services commerciaux Microsoft, puis sélectionnez votre résultat pour trouver des calendriers de maintenance, des mises à jour requises, des informations sur la migration et la configuration système requise."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816197"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882434"
