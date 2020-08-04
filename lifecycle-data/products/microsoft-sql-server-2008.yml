@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft SQL Server 2008
   description: Microsoft SQL Server 2008 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/03/2020
+  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
+  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816060"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882213"
 name: Microsoft SQL Server 2008
 summary: >
   Microsoft SQL Server 2008 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
 
 
-  Cela s’applique aux éditions suivantes : développeur, entreprise, Express, Express avec Advanced Services, Standard Edition pour petites entreprises, Web, Workgroup
+  Cela s’applique aux éditions suivantes : Datacenter, développeur, entreprise, Express, Express avec Advanced Services, Standard Edition pour petites entreprises, Web, Workgroup
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> Les mises à jour de sécurité étendues (UDE) sont disponibles pour les éditions Datacenter, standard, entreprise, Web, Workgroup et Embedded de ce produit, pendant une période de trois ans au-delà de la fin du support.\n\n## <a name=\"links\"></a>Liens \n* [Programme de mise à jour de sécurité étendu (UDE)](/lifecycle/faq/extended-security-updates)\n* [Blog SQL Release services](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [Conseils de migration](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Pour IA64 uniquement, SP3 est pris en charge jusqu’à 7/9/2019.\n\n## <a name=\"editions\"></a>Premium \n* Développeur\n* Entreprise\n* Sous\n* Express avec services avancés\n* Standard\n* Standard Edition pour petites entreprises\n* Web\n* De"
+content: "> [!TIP]\n> Les mises à jour de sécurité étendues (UDE) sont disponibles pour les éditions Datacenter, standard, entreprise, Web et Workgroup de ce produit, pendant une période de trois ans au-delà de la fin du support.\nRelease-------------------------------date de début----Date de fin\n\nMise à jour de sécurité étendue, année 3---07/13/2021---07/12/2022\n\nMise à jour de sécurité étendue-année 2---07/14/2021---07/13/2021\n\nMise à jour de sécurité étendue-année 1---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Programme de mise à jour de sécurité étendu (UDE)](/lifecycle/faq/extended-security-updates)\n* [Blog SQL Release services](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> Pour IA64 uniquement, SP3 est pris en charge jusqu’à 7/9/2019.\n\n## <a name=\"editions\"></a>Premium \n* Centre de données\n* Développeur\n* Entreprise\n* Sous\n* Express avec services avancés\n* Standard\n* Standard Edition pour petites entreprises\n* Web\n* De"
