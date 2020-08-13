@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft BizTalk Accelerator pour SWIFT 2,3
   description: Microsoft BizTalk Accelerator for SWIFT 2,3 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b4e8c14f0cc9d8a023d62d4c8ed6521eed1f40a4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816156"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893533"
 name: Microsoft BizTalk Accelerator pour SWIFT 2,3
 summary: >+
   Microsoft BizTalk Accelerator for SWIFT 2,3 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise\n* Standard"
