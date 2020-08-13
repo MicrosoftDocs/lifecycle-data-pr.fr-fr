@@ -2,13 +2,13 @@
 metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 suit la stratégie de cycle de vie des composants.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853327"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893607"
 name: Internet Explorer 9
 summary: >+
   Internet Explorer 9 suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ sur la stratégie de cycle de vie Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Depuis le 12 janvier 2016, seule la version la plus récente d’Internet Explorer disponible pour un système d’exploitation pris en charge recevra les mises à jour de sécurité et de support technique."
+content: "\n## <a name=\"links\"></a>Links \n* [Conseils de migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ sur la stratégie de cycle de vie Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Depuis le 12 janvier 2016, seule la version la plus récente d’Internet Explorer disponible pour un système d’exploitation pris en charge recevra les mises à jour de sécurité et de support technique."
