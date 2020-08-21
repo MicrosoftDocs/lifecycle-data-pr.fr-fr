@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2007
-  description: Microsoft Office 2007 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office 2007
+  description: Microsoft Office 2007 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815760"
-name: Microsoft Office 2007
+name: Microsoft Office 2007
 summary: >+
-  Microsoft Office 2007 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office 2007 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : de base, entreprise, domicile et étudiant, professionnel, professionnel plus, petite entreprise, standard, édition intégrale
+  Ceci s’applique aux éditions suivantes : Basic, Entreprise, Famille et Étudiant, Professionnel, Professionnel Plus, Petite Entreprise, Standard, Ultimate
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Premium \n* De base\n* Entreprise\n* Famille et Étudiant \n* Professionnel\n* Professionnel Plus\n* Petite Entreprise\n* Standard\n* Souplesse"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basic\n* Entreprise\n* Famille et Étudiant\n* Professionnel\n* Professionnel Plus\n* Petite Entreprise\n* Standard\n* Intégrale"

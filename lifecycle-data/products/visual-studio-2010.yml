@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2010
-  description: Visual Studio 2010 suit la stratégie de cycle de vie fixe.
+  title: Visual Studio 2010
+  description: Visual Studio 2010 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815618"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Visual Studio 2010 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : agents, All, ASP .NET MVC 4, Express, F # 2,0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (isolé), Team agents, Team Explorer, Test Professional, Tools for Office System 4,0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Ceci s’applique aux éditions suivantes : Agents, Tous, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Outils d’analyse des performances, Premium, Professionnel, Remote Debugger, SDK, Shell (Intégré), Shell (Isolé), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualisation & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Représentants\n* Tous\n* ASP .NET MVC 4\n* Sous\n* Runtime F # 2,0\n* Gestion de l’atelier\n* Outils de performances\n* Premium\n* Professionnel\n* Débogueur distant\n* SDK\n* Environnement de commande (intégré)\n* Shell (isolé)\n* Agents de l’équipe\n* Explorateur d’équipes\n* Test professionnel\n* Outils pour Office System 4,0 Runtime\n* Souplesse\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Kit de développement logiciel (SDK) Visualization &"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* tous\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Outils d’analyse des performances\n* Premium\n* Professionnel\n* Remote Debugger\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Intégrale\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

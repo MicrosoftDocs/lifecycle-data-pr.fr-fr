@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2008 pour Mac.
-  description: Microsoft Office 2008 pour Mac suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office 2008 pour Mac
+  description: Microsoft Office 2008 pour Mac suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815758"
-name: Microsoft Office 2008 pour Mac.
-summary: "Microsoft Office 2008 pour Mac suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\nCela s’applique aux éditions suivantes : professionnel, accueil et étudiant, support multimédia Editon\n\n> [!IMPORTANT]\n> La prise en charge de ce produit a pris fin. \n"
+name: Microsoft Office 2008 pour Mac
+summary: "Microsoft Office 2008 pour Mac suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes : Professionnel, Famille et Étudiant, Special Media Edition\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La date de début pour Office 2008 pour Mac édition multimédia spéciale est le 12 mars 2008.\n\n## <a name=\"editions\"></a>Premium \n* Business\n* Famille et Étudiant \n* Editon de médias spéciaux"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La date de lancement d’Office 2008 pour Mac, Special Media Edition, est le 12 mars 2008.\n\n## <a name=\"editions\"></a>Éditions \n* Professionnel\n* Famille et Étudiant\n* Special Media Edition"

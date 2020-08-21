@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 3.5
-  description: Microsoft .NET Framework 3,5 suit la stratégie de cycle de vie fixe.
+  title: Microsoft .NET Framework 3.5
+  description: Microsoft .NET Framework 3.5 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816463"
-name: Microsoft .NET Framework 3.5
+name: Microsoft .NET Framework 3.5
 summary: >+
-  Microsoft .NET Framework 3,5 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft .NET Framework 3.5 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liens \n* [FAQ sur le cycle de vie-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informations sur le produit](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> La prise en charge de .NET Framework 3. x versions antérieures à 3,5 SP1 a pris fin le 12 juillet 2011. \n> [!NOTE]\n> Les dates de cycle de vie sont applicables à .NET 3,5 SP1 lors de l’exécution sur Windows 10 version 1809, Windows Server 2019 ou version ultérieure. Sur les versions antérieures de Windows, .NET 3,5 SP1 adopte le cycle de vie du système d’exploitation Windows sous-jacent."
+content: "\n## <a name=\"links\"></a>Liens \n* [FAQ sur le cycle de vie - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informations sur le produit](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Le support des versions de .NET Framework 3.x antérieures à 3.5 SP1 a pris fin le 12 juillet 2011. \n> [!NOTE]\n> Les dates du cycle de vie s’appliquent à .NET 3.5 SP1 sous Windows 10 version 1809, Windows Server 2019 ou version ultérieure. Sur les versions antérieures de Windows, .NET 3.5 SP1 adopte le cycle de vie du système d’exploitation Windows sous-jacent. \n\n\n"

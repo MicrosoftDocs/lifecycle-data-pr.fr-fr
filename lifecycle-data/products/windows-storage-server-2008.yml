@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Windows Storage Server 2008 suit la stratégie de cycle de vie fixe.
+  description: Windows Storage Server 2008 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815437"
 name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : Basic, Basic 32 bits, Basic 64-bit, Basic Embedded, Basic Embedded 32 bits, Enterprise, Enterprise Embedded, standard, standard Embedded, Workgroup
+  Ceci s’applique aux éditions suivantes : Basic, Basic 32 bits, Basic 64 bits, Basic Embedded, Basic Embedded 32 bits, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Ce produit a atteint la fin du support. Voir ci-dessous pour obtenir des conseils de migration.
+  > Le support a pris fin pour ce produit. Voir ci-dessous pour obtenir des conseils en matière de migration.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informations sur la mise à niveau du serveur](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Premium \n* De base\n* Basic 32 bits\n* Basic 64 bits\n* Intégration de base\n* Basic Embedded 32 bits\n* Entreprise\n* Enterprise Embedded\n* Standard\n* Embedded Standard\n* De"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informations sur la mise à niveau du serveur](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basic\n* Basic 32 bits\n* Basic 64 bits\n* Basic Embedded\n* Basic Embedded 32 bits\n* Entreprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup\n\n"

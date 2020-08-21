@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Customer Care Framework 2009
-  description: Microsoft Customer Care Framework 2009 suit la stratégie de cycle de vie fixe.
+  description: Microsoft Customer Care Framework 2009 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816112"
 name: Microsoft Customer Care Framework 2009
 summary: >
-  Microsoft Customer Care Framework 2009 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Customer Care Framework 2009 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La prise en charge s’est terminée. Consultez les conseils de migration ci-dessous.
+  > Le support est terminé. Voir les conseils de migration ci-dessous.
 products:
 - customer-care-framework
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)"

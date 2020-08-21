@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (pour les sites Internet, pour les applications internes)
-  description: FAST Search Server 2010 (pour les sites Internet, pour les applications internes) suit la stratégie de cycle de vie fixe.
+  title: FAST Search Server 2010 (for Internet Sites, for Internal Applications)
+  description: FAST Search Server 2010 (for Internet Sites, for Internal Applications) suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816214"
-name: FAST Search Server 2010 (pour les sites Internet, pour les applications internes)
+name: FAST Search Server 2010 (for Internet Sites, for Internal Applications)
 summary: >+
-  FAST Search Server 2010 (pour les sites Internet, pour les applications internes) suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  FAST Search Server 2010 (for Internet Sites, for Internal Applications) suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : applications internes, sites Internet
+  Ceci s’applique aux éditions suivantes : Internal Applications, Internet Sites
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Forum aux questions sur le cycle de vie-général](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Exclut les versions précédemment déprises en charge. Le support pour ce produit est soumis aux termes de son acquisition.\n\n## <a name=\"editions\"></a>Premium \n* Applications internes\n* Sites Internet"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [FAQ sur le cycle de vie - Généralités](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Exclusion des versions dont le support est déjà terminé. Le support de ce produit est soumis aux conditions d’acquisition applicables.\n\n## <a name=\"editions\"></a>Éditions \n* Internal Applications\n* Internet Sites"

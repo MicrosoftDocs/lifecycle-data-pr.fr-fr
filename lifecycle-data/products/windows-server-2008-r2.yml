@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 R2
-  description: Windows Server 2008 R2 suit la stratégie de cycle de vie fixe.
+  title: Windows Server 2008 R2
+  description: Windows Server 2008 R2 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816324"
-name: Windows Server 2008 R2
-summary: "Windows Server 2008 R2 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\nCela s’applique aux éditions suivantes : Datacenter, entreprise, HPC Edition, systèmes Itanium, standard, Web\n\n> [!IMPORTANT]\n> La prise en charge de ce produit a pris fin. Consultez les conseils de migration ci-dessous. \n"
+name: Windows Server 2008 R2
+summary: "Windows Server 2008 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes : Datacenter, Entreprise, HPC Edition, pour les systèmes Itanium, Standard, Web\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. Voir les conseils de migration ci-dessous. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://aka.ms/AA1ovn4)\n* [Informations sur la mise à niveau du serveur](/windows-server/upgrade/upgrade-overview)\n* [Programme de mise à jour de sécurité étendu (UDE)](/lifecycle/faq/extended-security-updates)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Les mises à jour de sécurité étendues (UDE) sont disponibles via des programmes de licences en volume spécifiques pour les éditions Datacenter, standard, entreprise et intégrée de cette édition de produit, pendant une période de trois ans au-delà de la fin du support. Pour plus d’informations, contactez votre partenaire Microsoft ou votre équipe de compte. \n\nRelease-------------------------------date de début----Date de fin\n\nMise à jour de sécurité étendue, année 3---01/11/2022---01/10/2023\n\nMise à jour de sécurité étendue-année 2---01/12/2021---01/11/2022\n\nMise à jour de sécurité étendue-année 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Premium \n* Centre de données\n* Entreprise\n* HPC Edition\n* Systèmes basés sur Itanium\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://aka.ms/AA1ovn4)\n* [Informations sur la mise à niveau du serveur](/windows-server/upgrade/upgrade-overview)\n* [Programme de mises à jour de sécurité étendues (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Des mises à jour de sécurité étendues (ESU) sont disponibles grâce à des programmes spécifiques de licence multiple pour les versions Datacenter, Standard, Entreprise et Embedded de ce produit, jusqu’à trois ans après la date de fin du support. Contactez votre partenaire Microsoft ou votre équipe de compte pour en savoir plus. \n\nDate de sortie-------------------------------Date de début ----Date de fin\n\nMise à jour de sécurité prolongée Année 3---11/01/2022---10/01/2023\n\nMise à jour de sécurité prolongée Année 2--12/01/2021---11/01/2022\n\nMise à jour de sécurité prolongée Année 1---14/01/2020---12/01/2021\n\n## <a name=\"editions\"></a>Éditions \n* Datacenter\n* Entreprise\n* HPC Edition\n* Pour les systèmes Itanium\n* Standard\n* Web"

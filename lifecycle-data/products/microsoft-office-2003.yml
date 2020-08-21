@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003
-  description: Microsoft Office 2003 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office 2003
+  description: Microsoft Office 2003 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815763"
-name: Microsoft Office 2003
+name: Microsoft Office 2003
 summary: >+
-  Microsoft Office 2003 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office 2003 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : de base, professionnel, professionnel, petite entreprise, standard, étudiant et enseignant, composants Web
+  Ceci s’applique aux éditions suivantes : Basique, Professionnel, Professionnel Entreprise, PME, Standard, Étudiant et Enseignant, Composants Web
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* De base\n* Professionnel\n* Entreprise professionnelle\n* Petite Entreprise\n* Standard\n* Étudiant et enseignant\n* Composants Web"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basic\n* Professionnel\n* Professionnel Entreprise\n* Petite Entreprise\n* Standard\n* Étudiant et Enseignant\n* Composants Web"

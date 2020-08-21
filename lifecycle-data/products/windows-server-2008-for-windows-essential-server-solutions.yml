@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 pour les solutions Windows Essential Server
-  description: Windows Server 2008 pour les solutions Windows Essential Server suit la stratégie de cycle de vie fixe.
+  title: Windows Server 2008 pour Windows Essential Server Solutions
+  description: Windows Server 2008 pour Windows Essential Server Solutions suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815954"
-name: Windows Server 2008 pour les solutions Windows Essential Server
+name: Windows Server 2008 pour Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 pour les solutions Windows Essential Server suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Windows Server 2008 pour Windows Essential Server Solutions suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : standard, sans Hyper-V
+  Ceci s’applique aux éditions suivantes : Standard, sans Hyper-V
 
 
   > [!IMPORTANT]
 
-  > La prise en charge de ce produit a pris fin. Consultez les conseils de migration ci-dessous.
+  > Le support de ce produit a pris fin. Voir les conseils de migration ci-dessous.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://aka.ms/AA1ovn4)\n* [Informations sur le produit](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Premium \n* Standard\n* sans Hyper-V"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://aka.ms/AA1ovn4)\n* [Informations sur le produit](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard\n* sans Hyper-V"

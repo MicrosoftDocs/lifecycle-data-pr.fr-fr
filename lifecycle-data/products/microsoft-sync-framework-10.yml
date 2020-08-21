@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sync Framework 1,0
-  description: Microsoft Sync Framework 1,0 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Sync Framework 1.0
+  description: Microsoft Sync Framework 1.0 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816058"
-name: Microsoft Sync Framework 1,0
+name: Microsoft Sync Framework 1.0
 summary: >
-  Microsoft Sync Framework 1,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Sync Framework 1.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > La prise en charge de ce produit a pris fin.
+  > Le support de ce produit a pris fin.
 products:
 - vs
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> La prise en charge de Sync Framework 1,0 SP1 prend fin à la date indiquée, sauf si elle est distribuée en tant que composant de SharePoint Server 2010, 2013, 2016 ou 2019. Les composants bénéficient de la même prise en charge que leur produit ou plate-forme parent."
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> La prise en charge de Sync Framework 1.0 SP1 se termine à la date indiquée à moins d’être distribuée en tant que composant de SharePoint Server 2010, 2013, 2016 ou 2019. Les composants bénéficient du même support que la plate-forme ou le produit parent correspondant."
