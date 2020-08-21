@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office pour Mac 2011
-  description: Microsoft Office pour Mac 2011 suit la stratégie de cycle de vie fixe.
+  description: Microsoft Office pour Mac 2011 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853275"
 name: Microsoft Office pour Mac 2011
 summary: >+
-  Microsoft Office pour Mac 2011 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office pour Mac 2011 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : éducation, domicile et bureau, domicile et professionnel, accueil et étudiant, standard
+  Ceci s’applique aux éditions suivantes : Éducation, Famille et Petite Entreprise, Programme Famille et Petite Entreprise d’utilisation à domicile, Famille et Étudiant, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La prise en charge standard de Microsoft Office pour Mac 2011 est étendue, comme indiqué afin de fournir à tous les clients la chronologie de la transition de cycle de vie standard.\n\n## <a name=\"editions\"></a>Premium \n* Centres\n* Famille et Petite Entreprise \n* Programme d’utilisation de la maison et de l’entreprise\n* Famille et Étudiant \n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Le support standard de Microsoft Office pour Mac 2011 est étendu comme indiqué afin de fournir à tous les clients la chronologie de transition du cycle de vie standard.\n\n## <a name=\"editions\"></a>Éditions \n* Éducation\n* Famille et Petite Entreprise\n* Programme d’utilisation à domicile Famille et Petite Entreprise\n* Famille et Étudiant\n* Standard"

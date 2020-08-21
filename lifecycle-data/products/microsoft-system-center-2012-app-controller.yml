@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Contrôleur d’application Microsoft System Center 2012
-  description: Le contrôleur d’application Microsoft System Center 2012 suit la stratégie de cycle de vie fixe.
+  title: Contrôleur d’application Microsoft System Center 2012
+  description: Le contrôleur d’applications Microsoft System Center 2012 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853392"
-name: Contrôleur d’application Microsoft System Center 2012
+name: Contrôleur d’application Microsoft System Center 2012
 summary: >+
-  Le contrôleur d’application Microsoft System Center 2012 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Le contrôleur d’applications Microsoft System Center 2012 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur System Center](/system-center/#pivot=components&panel=components-all)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 est composé de composants : Configuration Manager Data Protection Manager Operations Manager, Service Manager, gestionnaire de service Gestionnaire de machines virtuelles de service\n\n\n\n"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations concernant System Center](/system-center/#pivot=components&panel=components-all)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 contient les composants suivants : Gestionnaire de la configuration Gestionnaire de la protection des données Gestionnaire des opérations Orchestrator Gestionnaire de service Gestion des services Automation Virtual Machine Manager Service Provider Foundation\n\n\n\n"
