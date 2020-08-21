@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2015
-  description: Visual Studio 2015 suit la stratégie de cycle de vie fixe.
+  title: Visual Studio 2015
+  description: Visual Studio 2015 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853425"
-name: Visual Studio 2015
+name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Visual Studio 2015 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : agents, Community, Enterprise, Express for Web, Express pour Windows 10, Express pour Windows Desktop, Modeling SDK, Professional, Management Management, Tools-up, SDK, Shell (Integrated), Shell (isolé), Test Professional, Visual C++ Redistributable
+  Ceci s’applique aux éditions suivantes : Agents, Community, Enterprise, Express pour le Web, Express pour Windows 10, Express pour Windows Desktop, Modeling SDK, Professional, Gestion des versions, Outils de contrôle à distance, SDK, Shell (Intégré), Shell (Isolé), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations de maintenance](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Premium \n* Représentants\n* Communauté\n* Entreprise\n* Express pour le Web\n* Express pour Windows 10\n* Express pour les ordinateurs de bureau Windows\n* Kit de développement logiciel de modélisation\n* Professionnel\n* Gestion des versions\n* Outils à distance\n* SDK\n* Environnement de commande (intégré)\n* Shell (isolé)\n* Test professionnel\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* Community\n* Entreprise\n* Express pour le Web\n* Express pour Windows 10\n* Express pour Windows Desktop\n* Modeling SDK\n* Professionnel\n* Release Management\n* Outils de contrôle à distance\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Test Professional\n* Visual C++ Redistributable\n\n"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 suit la stratégie de cycle de vie fixe.
+  description: Windows Server 2012 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853634"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Windows Server 2012 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : Datacenter, Essentials et systèmes intégrés, bases, standard
+  Ceci s’applique aux éditions suivantes : Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/windows-server/upgrade/upgrade-overview)\n* [Informations sur le produit](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Le support technique et étendu pour ce produit a été étendu afin de fournir aux clients la chronologie de la transition de cycle de vie standard. Windows Server Essentials publié le 2 janvier 2013.\n\n## <a name=\"editions\"></a>Premium \n* Centre de données\n* Essentials\n* pour les systèmes intégrés\n* Plate\n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/windows-server/upgrade/upgrade-overview)\n* [Informations sur le produit](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Le support standard et étendu de ce produit a été étendu afin de fournir aux clients le calendrier de transition du cycle de vie standard. Windows Server Essentials publié le 2 janvier 2013.\n\n## <a name=\"editions\"></a>Éditions \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

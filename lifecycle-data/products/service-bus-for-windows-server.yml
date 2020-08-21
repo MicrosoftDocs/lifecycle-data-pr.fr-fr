@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Service bus pour Windows Server
-  description: Service bus for Windows Server suit la stratégie de cycle de vie des composants.
+  title: Service Bus pour Windows Server
+  description: Service Bus pour Windows Server suit la politique de cycle de vie des composants.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853383"
-name: Service bus pour Windows Server
+name: Service Bus pour Windows Server
 summary: >
-  Service bus for Windows Server suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Service Bus pour Windows Server suit la politique de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Lorsque Service bus 1,1 est un composant de SharePoint Server 2016 ou SharePoint Server 2013, il sera pris en charge en fonction de la fin des dates de prise en charge de la version SharePoint Server correspondante.
+  > Lorsque Service Bus 1.1 est un composant de SharePoint Server 2016 ou SharePoint Server 2013, il sera pris en charge en fonction de la fin des dates de support de la version SharePoint Server respective.
 products:
 - windows
 policyType: component

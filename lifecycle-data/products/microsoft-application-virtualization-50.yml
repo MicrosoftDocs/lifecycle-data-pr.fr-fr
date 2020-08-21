@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 5,0
-  description: Microsoft Application Virtualization 5,0 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853324"
-name: Microsoft Application Virtualization 5,0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization 5.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : pour les services Bureau à distance, pour les services Terminal Server, pour les ordinateurs de bureau Windows
+  Cela s’applique aux éditions suivantes : for Remote Desktop Services, for Terminal Services, for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* pour les services Bureau à distance\n* pour les services Terminal Server\n* pour les ordinateurs de bureau Windows"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* pour les services Bureau à distance\n* for Terminal Services\n* pour les bureaux Windows"

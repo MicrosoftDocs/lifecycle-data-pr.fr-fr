@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5,0 pour les ordinateurs de bureau Windows
-  description: Microsoft Application Virtualization Hosting 5,0 for Windows Desktops suit la stratégie de cycle de vie fixe.
+  title: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853315"
-name: Microsoft Application Virtualization Hosting 5,0 pour les ordinateurs de bureau Windows
+name: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 5,0 for Windows Desktops suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : pour les ordinateurs de bureau Windows
+  Cela concerne les éditions suivantes : for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* pour les ordinateurs de bureau Windows"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* pour les bureaux Windows"

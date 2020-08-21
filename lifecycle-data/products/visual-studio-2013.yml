@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013 suit la stratégie de cycle de vie fixe.
+  description: Visual Studio 2013 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853647"
-name: Visual Studio 2013
+name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Visual Studio 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : agents, All, Community, Express for Web, Express pour Windows, Express pour Windows Desktop, IntelliTrace Collector, Modeling SDK, multi-Byte MFC Library, Premium, Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Shell (isolé), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, extensions des outils Web
+  Ceci s’applique aux éditions suivantes : Agents, Tous, Community, Express pour le Web, Express pour Windows, Express pour Windows Desktop, IntelliTrace Collector, Modeling SDK, Bibliothèque MFC multioctets, Premium, Professional, Release Management, Outils de contrôle à distance, SDK, Shell (Intégré), Shell (Isolé), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Extensions d’outils web
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations de maintenance](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Premium \n* Représentants\n* Tous\n* Communauté\n* Express pour le Web\n* Express pour Windows\n* Express pour les ordinateurs de bureau Windows\n* Collecteur IntelliTrace\n* Kit de développement logiciel de modélisation\n* Bibliothèque MFC multioctets\n* Premium\n* Professionnel\n* Gestion des versions\n* Outils à distance\n* SDK\n* Environnement de commande (intégré)\n* Shell (isolé)\n* Explorateur d’équipes\n* Test professionnel\n* Souplesse\n* Visual C++ Redistributable\n* Extensions des outils Web"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* tous\n* Community\n* Express pour le Web\n* Express pour Windows\n* Express pour Windows Desktop\n* Collecteur IntelliTrace\n* Modeling SDK\n* Bibliothèque MFC multioctets\n* Premium\n* Professionnel\n* Release Management\n* Outils de contrôle à distance\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Team Explorer\n* Test Professional\n* Intégrale\n* Visual C++ Redistributable\n* Web Tools Extensions"
