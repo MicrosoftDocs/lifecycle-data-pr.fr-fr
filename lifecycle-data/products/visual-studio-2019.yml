@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2019
-  description: Visual Studio 2019 suit la stratégie de cycle de vie fixe.
+  title: Visual Studio 2019
+  description: Visual Studio 2019 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869219"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Visual Studio 2019 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : agents, outils de génération, communauté, entreprise, outils de collecte autonome IntelliTrace, outils de performances, professionnels, outils à distance, Explorateur d’équipes, redistribuable Visual C++
+  Ceci s’applique aux éditions suivantes : Agents, Build Tools, Community, Enterprise, pour Mac, Collecteur autonome IntelliTrace, Outils d’analyse des performances, Professional, Outils de contrôle à distance, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Liens \n* [Annonce](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informations de maintenance](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Premium \n* Représentants\n* Outils de création\n* Communauté\n* Entreprise\n* pour Mac\n* Collecteur autonome IntelliTrace\n* Outils de performances\n* Professionnel\n* Outils à distance\n* Explorateur d’équipes\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Liens \n* [Annonce](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informations de service](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* Build Tools\n* Community\n* Entreprise\n* Pour Mac\n* Collecteur autonome IntelliTrace\n* Outils d’analyse des performances\n* Professionnel\n* Outils de contrôle à distance\n* Team Explorer\n* Visual C++ Redistributable"

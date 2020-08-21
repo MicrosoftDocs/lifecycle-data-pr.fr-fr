@@ -2,17 +2,19 @@
 metadata:
   title: Gestionnaire de périphériques Windows Embedded 2011
   description: Le gestionnaire de périphériques Windows Embedded 2011 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853584"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906765"
 name: Gestionnaire de périphériques Windows Embedded 2011
 summary: >
   Le gestionnaire de périphériques Windows Embedded 2011 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
 
+
+  Cela s’applique aux éditions suivantes : client, SDK, Server
 
 
   > [!IMPORTANT]
@@ -32,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Client\n* SDK\n* Serveur"
