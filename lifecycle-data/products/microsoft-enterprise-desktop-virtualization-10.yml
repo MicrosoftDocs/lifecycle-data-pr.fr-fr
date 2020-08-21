@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise Desktop Virtualization 1,0
-  description: Microsoft Enterprise Desktop Virtualization 1,0 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816105"
-name: Microsoft Enterprise Desktop Virtualization 1,0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft Enterprise Desktop Virtualization 1,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 1.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : entreprise
+  Ceci s’applique aux éditions suivantes : Entreprise
 
 
   > [!IMPORTANT]
 
-  > La prise en charge de ce produit a pris fin. Consultez les conseils de migration ci-dessous.
+  > Le support de ce produit a pris fin. Voir les conseils de migration ci-dessous.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise"

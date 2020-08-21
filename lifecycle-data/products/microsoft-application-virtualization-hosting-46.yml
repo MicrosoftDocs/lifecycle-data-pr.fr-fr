@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4,6 pour les ordinateurs de bureau Windows
-  description: Microsoft Application Virtualization Hosting 4,6 for Windows Desktops suit la stratégie de cycle de vie fixe.
+  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816168"
-name: Microsoft Application Virtualization Hosting 4,6 pour les ordinateurs de bureau Windows
+name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 4,6 for Windows Desktops suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization Hosting 4.6 for Windows Desktops suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : pour les ordinateurs de bureau Windows
+  Cela concerne les éditions suivantes : for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur les produits et la migration](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Étant donné que le client App-V 4,6 utilise le serveur App-V 4,5, le serveur App-V 4,5 continuera d’être pris en charge en fonction des dates de cycle de vie d’App-V 4,6 lorsqu’il est utilisé avec le client App-V 4,6 pris en charge.\n\n## <a name=\"editions\"></a>Premium \n* pour les ordinateurs de bureau Windows"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur les produits et les migrations](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Étant donné que le client App-V 4.6 utilise le serveur App-V 4.5, le serveur App-V 4.5 continuera d’être pris en charge selon les dates du cycle de vie d’App-V 4.6 lorsqu’il est utilisé avec le client App-V 4.6 pris en charge.\n\n## <a name=\"editions\"></a>Éditions \n* pour les bureaux Windows"

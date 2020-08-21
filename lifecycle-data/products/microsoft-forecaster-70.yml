@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecaster 7,0
-  description: Microsoft Forecaster 7,0 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816103"
-name: Microsoft Forecaster 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Forecaster 7.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La prise en charge du Forecast prend fin à la date indiquée, sauf si elle est distribuée en tant que composant d’un produit Dynamics. Lorsqu’ils sont distribués avec un produit Dynamics, les dates de cycle de vie Dynamics remplacent la date de prévision."
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Le support de Forecaster prend fin à la date indiquée, sauf si ce logiciel a été distribué en tant que composant d’un produit Dynamics. S’il est distribué avec un produit Dynamics, les dates du cycle de vie de Dynamics remplacent la date de Forecaster."

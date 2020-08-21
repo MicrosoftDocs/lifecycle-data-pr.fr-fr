@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Windows SharePoint Services 3.0
-  description: Microsoft Windows SharePoint Services 3,0 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Windows SharePoint Services 3.0
+  description: Microsoft Windows SharePoint Services 3.0 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: cdc4d8caef3f00f070c4d3ce32c2eea2f6ecbf24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815480"
-name: Microsoft Windows SharePoint Services 3.0
-summary: "Microsoft Windows SharePoint Services 3,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La prise en charge s’est terminée. \n"
+name: Microsoft Windows SharePoint Services 3.0
+summary: "Microsoft Windows SharePoint Services 3.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Le support est terminé. \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Conseils de migration](/office365/enterprise/sharepoint-2007-end-of-support)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Conseils en matière de migration](/office365/enterprise/sharepoint-2007-end-of-support)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outils de vérification linguistique Microsoft Office 2003
-  description: Les outils de vérification linguistique Microsoft Office 2003 suivent la stratégie de cycle de vie fixe.
+  description: Les outils de vérification linguistique Microsoft Office 2003 suivent la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816459"
 name: Outils de vérification linguistique Microsoft Office 2003
 summary: >+
-  Les outils de vérification linguistique Microsoft Office 2003 suivent la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Les outils de vérification linguistique Microsoft Office 2003 suivent la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

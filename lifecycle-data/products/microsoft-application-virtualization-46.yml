@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 4,6
-  description: Microsoft Application Virtualization 4,6 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816174"
-name: Microsoft Application Virtualization 4,6
+name: Microsoft Application Virtualization 4.6
 summary: >+
-  Microsoft Application Virtualization 4,6 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization 4.6 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : pour les services Bureau à distance pour les ordinateurs de bureau Windows, séquenceur
+  Cela s’applique aux éditions suivantes : pour les services Bureau à distance, pour bureaux Windows, Sequencer
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur les produits et la migration](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Conseils de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Étant donné que le client App-V 4,6 utilise le serveur App-V 4,5, le serveur App-V 4,5 continuera d’être pris en charge en fonction des dates de cycle de vie d’App-V 4,6 lorsqu’il est utilisé avec le client App-V 4,6 pris en charge.\n\n## <a name=\"editions\"></a>Premium \n* pour les services Bureau à distance\n* pour les ordinateurs de bureau Windows\n* Séquenceur"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur les produits et les migrations](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Étant donné que le client App-V 4.6 utilise le serveur App-V 4.5, le serveur App-V 4.5 continuera d’être pris en charge selon les dates du cycle de vie d’App-V 4.6 lorsqu’il est utilisé avec le client App-V 4.6 pris en charge.\n\n## <a name=\"editions\"></a>Éditions \n* pour les services Bureau à distance\n* pour les bureaux Windows\n* Sequencer"
