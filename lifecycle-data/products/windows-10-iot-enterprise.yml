@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT entreprise
-  description: Windows 10 IoT Enterprise suit la stratégie de cycle de vie moderne.
+  title: Windows 10 IoT Entreprise
+  description: Windows 10 IoT Entreprise suit la politique de cycle de vie moderne.
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879077"
-name: Windows 10 IoT entreprise
+name: Windows 10 IoT Entreprise
 summary: >
-  Windows 10 IoT Enterprise suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+  Windows 10 IoT Entreprise suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
 
 
 
@@ -55,4 +55,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Liens \n* [Vue d’ensemble de Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Article sur le cycle de vie Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows As a service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Forum aux questions sur le cycle de vie-produits Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Sauf en cas d’ajournement, les mises à jour de fonctionnalité de canal semi-annuel Windows 10 peuvent être installées avant la fin de la période de prise en charge standard indiquée."
+content: "\n## <a name=\"links\"></a>Liens \n* [Vue d’ensemble de Windows 10 IoT Entreprise](/windows/iot-core/windows-iot-enterprise)\n* [Infos-clés sur le cycle de vie Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [FAQ sur le cycle de vie - Produits Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> À moins d’être différées, les mises à jour des fonctionnalités ultérieures par le biais du canal semi-annuel pour Windows 10 peuvent être installées avant la date de fin mentionnée du support standard.\n\n\n"
