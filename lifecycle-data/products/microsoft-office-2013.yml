@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Office 2013
   description: Microsoft Office 2013 suit la politique de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853621"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905244"
 name: Microsoft Office 2013
 summary: >+
   Microsoft Office 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Famille et Entreprise, Famille et Étudiant, Professionnel, Professionnel plus, Programme Professionnel plus d’utilisation à domicile, Standard, Web Apps Server
+  Ceci s’applique aux éditions suivantes : Famille et Entreprise, Famille et Étudiant, Pack multilangue, Professionnel, Professionnel plus, Programme Professionnel plus d’utilisation à domicile, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 ne s’applique pas à l’édition Web Apps Server. \n\n## <a name=\"editions\"></a>Éditions \n* Famille et Petite Entreprise\n* Famille et Étudiant\n* Professionnel\n* Professionnel Plus\n* Programme professionnel plus d’utilisation à domicile\n* Standard\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 ne s’applique pas à l’édition Web Apps Server. \n\n## <a name=\"editions\"></a>Éditions \n* Famille et Petite Entreprise\n* Famille et Étudiant\n* Pack multilangue\n* Professionnel\n* Professionnel Plus\n* Programme professionnel plus d’utilisation à domicile\n* Standard\n* Web Apps Server"

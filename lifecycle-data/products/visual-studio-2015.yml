@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 suit la politique de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f5ff344edadae9c856d0cfce3d88ac23e1fa6394
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853425"
-name: Visual Studio 2015
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906839"
+name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Agents, Community, Enterprise, Express pour le Web, Express pour Windows 10, Express pour Windows Desktop, Modeling SDK, Professional, Gestion des versions, Outils de contrôle à distance, SDK, Shell (Intégré), Shell (Isolé), Test Professional, Visual C++ Redistributable
+  Ceci s’applique aux éditions suivantes : Agents, Community, Enterprise, ESM,Express pour le Web, Express pour Windows 10, Express pour Windows Desktop, Modeling SDK, Professionnel, PSM, Gestion des versions, Outils de contrôle à distance, SDK, Shell (Intégré), Shell (Isolé), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* Community\n* Entreprise\n* Express pour le Web\n* Express pour Windows 10\n* Express pour Windows Desktop\n* Modeling SDK\n* Professionnel\n* Release Management\n* Outils de contrôle à distance\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Test Professional\n* Visual C++ Redistributable\n\n"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* Community\n* Entreprise\n* ESM\n* Express pour le Web\n* Express pour Windows 10\n* Express pour Windows Desktop\n* Modeling SDK\n* Professionnel\n* PSM\n* Release Management\n* Outils de contrôle à distance\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Test Professional\n* TPS\n* Visual C++ Redistributable\n\n"
