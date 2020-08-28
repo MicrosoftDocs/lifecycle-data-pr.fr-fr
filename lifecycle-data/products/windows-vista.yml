@@ -2,19 +2,19 @@
 metadata:
   title: Windows Vista
   description: Windows Vista suit la politique de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "815602"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903084"
 name: Windows Vista
 summary: >
   Windows Vista suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Professionnel, Professionnel N, Entreprise, Entreprise X64, Familiale Basique, Familiale Basique 64 bits, Familiale Basique N, Familiale Basique N 64 bits, Familiale Premium, Familiale Premium 64 bits, Starter, Intégrale, Intégrale 64 bits
+  Ceci s’applique aux éditions suivantes : Professionnel, Professionnel N, Professionnel N 64 bits, Enterprise, Entreprise X64, Familiale Basique, Familiale Basique 64 bits, Familiale Basique N, Familiale Basique N 64 bits, Familiale Premium, Familiale Premium 64 bits, Starter, Intégrale, Intégrale 64 bits
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Considérations relatives à la mise à niveau et à la migration de Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Professionnel\n* Professionnel N\n* Entreprise\n* Entreprise X64\n* Familiale Basique\n* Familiale Basique 64 bits\n* Familiale Basique N\n* Familiale Basique N 64 bits\n* Familiale Premium\n* Familiale Premium 64 bits\n* Starter\n* Intégrale\n* Intégrale 64 bits\n\n"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Considérations relatives à la mise à niveau et à la migration de Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Professionnel\n* Professionnel N\n* Professionnel N 64 bits\n* Entreprise\n* Entreprise X64\n* Familiale Basique\n* Familiale Basique 64 bits\n* Familiale Basique N\n* Familiale Basique N 64 bits\n* Familiale Premium\n* Familiale Premium 64 bits\n* Starter\n* Intégrale\n* Intégrale 64 bits\n\n"
