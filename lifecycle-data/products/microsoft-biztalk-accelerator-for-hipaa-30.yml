@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft BizTalk Accelerator pour HIPAA 3,0
   description: Microsoft BizTalk Accelerator for HIPAA 3,0 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816165"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935262"
 name: Microsoft BizTalk Accelerator pour HIPAA 3,0
 summary: >+
   Microsoft BizTalk Accelerator for HIPAA 3,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
 
 
-  Cela s’applique aux éditions suivantes : entreprise, standard
+  Ceci s’applique aux éditions suivantes : Entreprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/28/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Standard"
