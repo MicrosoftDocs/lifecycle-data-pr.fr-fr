@@ -2,13 +2,14 @@
 metadata:
   title: Serveur virtuel 2005
   description: Le serveur virtuel 2005 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "815625"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937889"
 name: Serveur virtuel 2005
 summary: >+
   Le serveur virtuel 2005 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise\n* Pack d'administration\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Pack d'administration\n* Standard"
