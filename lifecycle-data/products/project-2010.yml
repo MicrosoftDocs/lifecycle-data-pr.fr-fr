@@ -2,19 +2,20 @@
 metadata:
   title: Project 2010
   description: Le projet 2010 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e9ac4a6d3a0fb9211ebad118c74feb650769620b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: bdfc3db9732d902f753335f6457b960248667476
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816004"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926567"
 name: Project 2010
 summary: >+
   Le projet 2010 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
 
 
-  Cela s’applique aux éditions suivantes : professionnel, standard
+  Ceci s’applique aux éditions suivantes : Professionnel, Standard
 
 products:
 - office
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Professionnel\n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Professionnel\n* Standard"
