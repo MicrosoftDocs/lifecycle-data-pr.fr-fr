@@ -2,19 +2,20 @@
 metadata:
   title: Système de plateforme Cloud
   description: Le système de plateforme Cloud suit la stratégie de cycle de vie fixe.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891877"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932043"
 name: Système de plateforme Cloud
 summary: >+
   Le système de plateforme Cloud suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
 
 
-  Cela s’applique aux éditions suivantes : standard
+  Ceci s’applique aux éditions suivantes : Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> La prise en charge du système de plateforme Cloud est étendue, comme indiqué afin de fournir à tous les clients la chronologie de la transition de cycle de vie standard.\n> [!NOTE]\n> Système de plateforme Cloud standard lancé le 18 septembre 2017.\n\n## <a name=\"editions\"></a>Premium \n* Standard"
+content: "\n\n> [!NOTE]\n> La prise en charge du système de plateforme Cloud est étendue, comme indiqué afin de fournir à tous les clients la chronologie de la transition de cycle de vie standard.\n> [!NOTE]\n> Système de plateforme Cloud standard lancé le 18 septembre 2017.\n\n## <a name=\"editions\"></a>Éditions \n* Standard"

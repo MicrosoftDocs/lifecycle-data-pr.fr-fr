@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SharePoint 2010 (for Internet Sites)
   description: Microsoft SharePoint 2010 (for Internet Sites) suit la politique de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Internet Sites Enterprise,for Internet Sites Standard
+  ms.openlocfilehash: 0ae859f98113ccfb93cb0436b955a815100a7381
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816061"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932524"
 name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: >+
   Microsoft SharePoint 2010 (for Internet Sites) suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Liens \n* [Documentation concernant le produit](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentation concernant Developer](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> la date de fin du support de ce produit est reportée du 13 octobre 2020 au 13 avril 2021.\n\n## <a name=\"editions\"></a>Éditions \n* for Internet Sites Entreprise\n* for Internet Sites Standard\n\n"
+content: "\n## <a name=\"links\"></a>Liens \n* [Documentation concernant le produit](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentation concernant Developer](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> la date de fin du support de ce produit est reportée du 13 octobre 2020 au 13 avril 2021.\n\n## <a name=\"editions\"></a>Éditions \n* for Internet Sites Entreprise\n* for Internet Sites Standard\n"
