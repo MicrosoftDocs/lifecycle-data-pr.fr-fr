@@ -2,19 +2,20 @@
 metadata:
   title: Exchange Server 2016
   description: Exchange Server 2016 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7d83d6853298231fb4bd84b90ccf197a8029e8a2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853405"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931155"
 name: Exchange Server 2016
 summary: >+
   Exchange Server 2016 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
 
 
-  Cela s’applique aux éditions suivantes : entreprise, standard
+  Ceci s’applique aux éditions suivantes : Entreprise, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liens \n* [Instructions de maintenance](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Instructions de maintenance](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Standard"
