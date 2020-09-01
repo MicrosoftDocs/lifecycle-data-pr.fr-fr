@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded Standard 7
   description: Windows Embedded Standard 7 suit la politique de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 7f5d0506d9edabddc83dea9cf2a8e7d25433dee1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "815970"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939887"
 name: Windows Embedded Standard 7
 summary: >+
   Windows Embedded Standard 7 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
@@ -39,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Liens \n* [* Programme de mises à jour de sécurité étendues (ESU) : les mises à jour de sécurité étendues pour les produits Embedded sélectionnés sont disponibles via les fabricants OEM.](/lifecycle/faq/extended-security-updates)\n* [Conseils en matière de migration](https://support.microsoft.com/help/4057281)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '* Des mises à jour de sécurité étendues (ESU) sont disponibles pour Windows Embedded Standard 7, jusqu’à trois ans après la date de fin du support, auprès des fabricants OEM. Contactez votre partenaire Microsoft ou votre équipe de compte pour en savoir plus.\n\n## <a name=\"editions\"></a>Éditions \n* Standard\n\n"
+content: "\n## <a name=\"links\"></a>Liens \n* [* Programme de mises à jour de sécurité étendues (ESU) : les mises à jour de sécurité étendues pour les produits Embedded sélectionnés sont disponibles via les fabricants OEM.](/lifecycle/faq/extended-security-updates)\n* [Conseils en matière de migration](https://support.microsoft.com/help/4057281)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '* Des mises à jour de sécurité étendues (ESU) sont disponibles pour Windows Embedded Standard 7, jusqu’à trois ans après la date de fin du support, auprès des fabricants OEM. Contactez votre partenaire Microsoft ou votre équipe de compte pour en savoir plus.\n\n## <a name=\"editions\"></a>Éditions \n* Standard\n"
