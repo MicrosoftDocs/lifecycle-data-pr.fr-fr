@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 suit la stratégie de cycle de vie fixe.
+  title: Visual Studio Team Foundation Server 2010
+  description: Visual Studio Team Foundation Server 2010 suit la politique de cycle de vie fixe.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906791"
-name: Visual Studio Team Foundation Server 2010
+name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Visual Studio Team Foundation Server 2010 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : all applicable, connecteur externe
+  Cela s’applique aux éditions suivantes : Toutes les versions applicables, Connecteur externe
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Conseils de migration](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Opérations de développement Azure](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Premium \n* Toutes les conditions applicables\n* Connecteur externe"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Éditions \n* Tous applicables\n* Connecteur externe"
