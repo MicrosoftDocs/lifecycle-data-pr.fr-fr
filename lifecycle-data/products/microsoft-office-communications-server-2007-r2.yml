@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Communications Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office Communications Server 2007 R2
+  description: Microsoft Office Communications Server 2007 R2 suit la politique de cycle de vie fixe.
   ms.date: 08/07/2020
   ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
   ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/07/2020
   ms.locfileid: "885827"
-name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\nCela s’applique aux éditions suivantes : all applicable, Enterprise, passerelle XMPP\n\n> [!IMPORTANT]\n> La prise en charge de ce produit a pris fin. Consultez les conseils de migration. \n"
+name: Microsoft Office Communications Server 2007 R2
+summary: "Microsoft Office Communications Server 2007 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes : Toutes versions applicables, Entreprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. Voir l’aide sur la migration. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Conseils de migration](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Passerelle XMPP publiée le 9/28/2009.\n\n## <a name=\"editions\"></a>Premium \n* Toutes les conditions applicables\n* Entreprise\n* Passerelle XMPP"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway a été publié le 28/09/2009.\n\n## <a name=\"editions\"></a>Éditions \n* Tous applicables\n* Entreprise\n* Passerelle XMPP"

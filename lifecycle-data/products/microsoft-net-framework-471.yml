@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 4.7.1
-  description: Microsoft .NET Framework 4.7.1 suit la stratégie de cycle de vie des composants.
+  title: Microsoft .NET Framework 4.7.1
+  description: Microsoft .NET Framework 4.7.1 suit la politique de cycle de vie des composants.
   ms.date: 07/28/2020
   ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869251"
-name: Microsoft .NET Framework 4.7.1
+name: Microsoft .NET Framework 4.7.1
 summary: >+
-  Microsoft .NET Framework 4.7.1 suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft .NET Framework 4.7.1 suit la politique de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [Forum aux questions sur le cycle de vie .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework est un composant du système d’exploitation Windows. Les composants bénéficient de la même prise en charge que leur produit ou plate-forme parent."
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [FAQ sur le cycle de vie de .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework est un composant du système d’exploitation Windows. Les composants bénéficient du même support que la plate-forme ou le produit parent correspondant."

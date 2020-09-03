@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio .NET 2003
-  description: Microsoft Visual Studio .NET 2003 suit la stratégie de cycle de vie fixe.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  description: Microsoft Visual Studio .NET 2003 suit la politique de cycle de vie fixe.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "815483"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907982"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
-  Microsoft Visual Studio .NET 2003 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Visual Studio .NET 2003 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : Enterprise Architect, Enterprise Developer, Professional
+  Ceci s’applique aux éditions suivantes : Enterprise Architect, Enterprise Developer, J#, Professional
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Premium \n* Architecte d’entreprise\n* Développeur d’entreprise\n* Professionnel"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professionnel"
