@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Word 2007
-  description: Microsoft Office Word 2007 suit la stratégie de cycle de vie fixe.
+  description: Microsoft Office Word 2007 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6d2ad5baa468acf95d3e73915ce0969d863d5110
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815515"
 name: Microsoft Office Word 2007
 summary: >+
-  Microsoft Office Word 2007 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office Word 2007 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : famille et étudiant, standard
+  Ceci s’applique aux éditions suivantes : Famille et Étudiant, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Premium \n* Famille et Étudiant \n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Éditions \n* Famille et Étudiant\n* Standard"

@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Protection 2010 for Exchange Server
-  description: Forefront Protection 2010 pour Exchange Server suit la stratégie de cycle de vie fixe.
+  description: Forefront Protection 2010 for Exchange Server suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816211"
 name: Forefront Protection 2010 for Exchange Server
-summary: "Forefront Protection 2010 pour Exchange Server suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La feuille de route pour les produits de sécurité sous la marque Forefront a changé. Ce produit est abandonné depuis le 31 décembre 2015. Consultez les conseils de migration. \n"
+summary: "Forefront Protection 2010 for Exchange Server suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> La feuille de route pour les produits de sécurité sous la marque Forefront a changé. Ce produit n’est plus disponible à partir du 31 décembre 2015. Veuillez consulter l’aide sur la migration. \n"
 products:
 - office
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"

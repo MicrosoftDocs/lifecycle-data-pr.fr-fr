@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualisation d’applications SoftGrid
-  description: La virtualisation d’applications SoftGrid suit la stratégie de cycle de vie fixe.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815470"
-name: Virtualisation d’applications SoftGrid
+name: SoftGrid Application Virtualization
 summary: >
-  La virtualisation d’applications SoftGrid suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  SoftGrid Application Virtualization suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : 4,1 pour les ordinateurs de bureau, 4,2 pour les ordinateurs de bureau, pour les services Terminal Server 4,1
+  Ceci s’applique aux éditions suivantes : 4.1 pour Bureaux, 4.2 pour Bureaux, pour Terminal Services 4.1
 
 
   > [!IMPORTANT]
 
-  > La prise en charge s’est terminée. Consultez les conseils de migration ci-dessous.
+  > Le support est terminé. Voir les conseils de migration ci-dessous.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Premium \n* 4,1 pour les ordinateurs de bureau\n* 4,2 pour les ordinateurs de bureau\n* pour les services Terminal Server 4,1"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Éditions \n* 4.1 pour Bureaux\n* 4.2 pour Bureaux\n* pour Terminal Services 4.1\n\n"

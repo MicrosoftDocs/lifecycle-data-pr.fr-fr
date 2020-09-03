@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center Operations Manager 2007
-  description: System Center Operations Manager 2007 suit la stratégie de cycle de vie fixe.
+  description: System Center Operations Manager 2007 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8efa21f33b388d13bbe5ca14c03dc2275d9d5b78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816000"
 name: System Center Operations Manager 2007
-summary: "System Center Operations Manager 2007 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> La prise en charge de ce produit a pris fin. Consultez les conseils de migration ci-dessous. \n"
+summary: "System Center Operations Manager 2007 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. Voir les conseils de migration ci-dessous. \n"
 products:
 - msc
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/23/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)"
