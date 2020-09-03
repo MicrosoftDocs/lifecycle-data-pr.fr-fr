@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Machine virtuelle Microsoft Azure (classique) (Vérifiez avec Azure avant la publication-pas de date de fin sur la grille de date)
-  description: Ordinateur virtuel Microsoft Azure (classique) (Vérifiez avec Azure avant la publication-pas de date de fin sur la grille de date) suit la stratégie de cycle de vie moderne.
+  title: Microsoft Azure Virtual Machine (classique) (confirmer avec Azure avant publication - pas de date de fin sur la grille de dates)
+  description: Microsoft Azure Virtual Machine (classique) (confirmer avec Azure avant la publication - aucune date de fin sur la grille de dates) suit la politique de cycle de vie moderne.
   ms.date: 07/28/2020
   ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853502"
-name: Machine virtuelle Microsoft Azure (classique) (Vérifiez avec Azure avant la publication-pas de date de fin sur la grille de date)
+name: Microsoft Azure Virtual Machine (classique) (confirmer avec Azure avant publication - pas de date de fin sur la grille de dates)
 summary: >+
-  Ordinateur virtuel Microsoft Azure (classique) (Vérifiez avec Azure avant la publication-pas de date de fin sur la grille de date) suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+  Microsoft Azure Virtual Machine (classique) (confirmer avec Azure avant la publication - aucune date de fin sur la grille de dates) suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 06/07/2012
   endDate: 03/01/2023
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/azure/virtual-machines/classic-vm-deprecation)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/azure/virtual-machines/classic-vm-deprecation)"

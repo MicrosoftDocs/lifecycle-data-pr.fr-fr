@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 Service Manager
-  description: Microsoft System Center 2012 Service Manager suit la stratégie de cycle de vie fixe.
+  title: Microsoft System Center 2012 Service Manager
+  description: Microsoft System Center 2012 Service Manager suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853250"
-name: Microsoft System Center 2012 Service Manager
+name: Microsoft System Center 2012 Service Manager
 summary: >+
-  Microsoft System Center 2012 Service Manager suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Service Manager suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Liens \n* [Stratégie de Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Ressources System Center](https://www.microsoft.com/system-center/resources)\n* [Documentation de System Center](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Ressources de System Center](https://www.microsoft.com/system-center/resources)\n* [Documentation à propos de System Center](/system-center/#pivot=components&panel=components-all)"
