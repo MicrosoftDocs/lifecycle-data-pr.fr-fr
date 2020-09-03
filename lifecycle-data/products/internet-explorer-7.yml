@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 7
-  description: Internet Explorer 7 suit la stratégie de cycle de vie des composants.
+  description: Internet Explorer 7 suit la politique de cycle de vie des composants.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816190"
 name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Internet Explorer 7 suit la politique de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ sur la stratégie de cycle de vie Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Depuis le 12 janvier 2016, seule la version la plus récente d’Internet Explorer disponible pour un système d’exploitation pris en charge recevra les mises à jour de sécurité et de support technique."
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ sur la politique du cycle de vie d’Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> À compter du 12 janvier 2016, seule la version la plus récente d’Internet Explorer disponible pour un système d’exploitation pris en charge recevra un soutien technique et des mises à jour de sécurité."

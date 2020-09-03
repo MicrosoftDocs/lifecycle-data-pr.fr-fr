@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Licence et serveur de protection des logiciels
-  description: Le serveur de protection et de gestion des licences de logiciels suit la stratégie de cycle de vie fixe.
+  title: Software Licensing and Protection Server
+  description: Software Licensing and Protection Server suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815486"
-name: Licence et serveur de protection des logiciels
+name: Software Licensing and Protection Server
 summary: >
-  Le serveur de protection et de gestion des licences de logiciels suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Software Licensing and Protection Server suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : entreprise, standard
+  Cela concerne les éditions suivantes : Entreprise, Standard
 
 
   > [!IMPORTANT]
 
-  > En raison du changement de licence et de protection des logiciels (SLPS), Microsoft a pris en charge SLPS jusqu’au 24 septembre 2009.
+  > En raison du désengagement de Software Licensing and Protection Server (SLPS), Microsoft a pris en charge SLPS jusqu’au 24 septembre 2009.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liens \n* [Serveur de gestion des licences et protection des logiciels (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Premium \n* Entreprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Standard"

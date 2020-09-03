@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office SharePoint Server 2007
-  description: Microsoft Office SharePoint Server 2007 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office SharePoint Server 2007
+  description: Microsoft Office SharePoint Server 2007 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 93ca29267a24dc6af4d7cec0a11af99a99c68108
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816068"
-name: Microsoft Office SharePoint Server 2007
+name: Microsoft Office SharePoint Server 2007
 summary: >+
-  Microsoft Office SharePoint Server 2007 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office SharePoint Server 2007 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/office/troubleshoot/support/office-2007-not-support)"
