@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 10
-  description: Internet Explorer 10 suit la stratégie de cycle de vie des composants.
+  description: Internet Explorer 10 suit la politique de cycle de vie des composants.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853330"
 name: Internet Explorer 10
 summary: >+
-  Internet Explorer 10 suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Internet Explorer 10 suit la politique de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [FAQ sur la stratégie de cycle de vie Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Consultez le Forum aux questions sur le cycle de vie Internet Explorer pour obtenir la liste des combinaisons de navigateurs et de systèmes d’exploitation pris en charge."
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [FAQ sur la politique du cycle de vie d’Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Veuillez consulter la FAQ sur le cycle de vie d’Internet Explorer pour obtenir une liste des systèmes d’exploitation et des combinaisons de navigateurs pris en charge."
