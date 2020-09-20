@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Report Viewer 2010 Redistributable
-  description: La visionneuse de rapports Microsoft 2010 Redistributable suit la stratégie de cycle de vie fixe.
+  title: Microsoft Report Viewer 2010 Redistributable
+  description: Microsoft Report Viewer 2010 Redistributable suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815499"
-name: Microsoft Report Viewer 2010 Redistributable
+name: Microsoft Report Viewer 2010 Redistributable
 summary: >+
-  La visionneuse de rapports Microsoft 2010 Redistributable suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Report Viewer 2010 Redistributable suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

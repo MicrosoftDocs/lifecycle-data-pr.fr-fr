@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype Entreprise 2015
-  description: Skype entreprise 2015 suit la stratégie de cycle de vie fixe.
+  description: Skype Entreprise 2015 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853565"
 name: Skype Entreprise 2015
 summary: >+
-  Skype entreprise 2015 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Skype Entreprise 2015 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Client : la version cliente de Skype entreprise 2015 est une mise à jour du client Lync 2013 et suit le même cycle de vie de produit.\n\n\n"
+content: "\n\n> [!NOTE]\n> Client : La version du client Skype Entreprise 2015 est une mise à jour du client Lync 2013 et suivra le même cycle de vie du produit.\n\n\n"

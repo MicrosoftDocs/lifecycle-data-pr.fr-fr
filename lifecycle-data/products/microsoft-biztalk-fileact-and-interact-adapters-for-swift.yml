@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk FileAct et des adaptateurs d’interaction pour SWIFT
-  description: Microsoft BizTalk FileAct et les adaptateurs d’interaction pour SWIFT suivent la stratégie de cycle de vie fixe.
+  title: Adaptateurs Microsoft BizTalk FileAct et InterAct pour SWIFT
+  description: Les adaptateurs FileAct et InterAct Microsoft BizTalk pour SWIFT suivent la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816149"
-name: Microsoft BizTalk FileAct et des adaptateurs d’interaction pour SWIFT
+name: Adaptateurs Microsoft BizTalk FileAct et InterAct pour SWIFT
 summary: >+
-  Microsoft BizTalk FileAct et les adaptateurs d’interaction pour SWIFT suivent la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Les adaptateurs FileAct et InterAct Microsoft BizTalk pour SWIFT suivent la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

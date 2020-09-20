@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serveur Microsoft ordinateur Learning (Microsoft R Server)
-  description: Microsoft machine learning Server (Microsoft R Server) suit la stratégie de cycle de vie moderne.
+  title: Microsoft Machine Learning Server (Microsoft R Server)
+  description: Microsoft Machine Learning Server (Microsoft R Server) suit la politique de cycle de vie moderne.
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853290"
-name: Serveur Microsoft ordinateur Learning (Microsoft R Server)
+name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
-  Microsoft machine learning Server (Microsoft R Server) suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+  Microsoft Machine Learning Server (Microsoft R Server) suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/01/2016
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations de maintenance](/machine-learning-server/resources-servicing-support)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](/machine-learning-server/resources-servicing-support)"

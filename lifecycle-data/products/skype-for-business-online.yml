@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype Entreprise Online
-  description: Skype entreprise Online suit la stratégie de cycle de vie moderne.
+  title: Skype Entreprise Online
+  description: Skype Entreprise Online suit la politique de cycle de vie moderne.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853563"
-name: Skype Entreprise Online
+name: Skype Entreprise Online
 summary: >
-  Skype entreprise Online suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+  Skype Entreprise Online suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > Ce service sera retiré le 31 juillet 2021. Voir ci-dessous pour obtenir des conseils de migration.
+  > Ce service sera mis hors service le 31 juillet 2021. Voir ci-dessous pour obtenir des conseils en matière de migration.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/MicrosoftTeams/upgrade-start-here)"
