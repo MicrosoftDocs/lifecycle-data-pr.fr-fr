@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 entreprise central en local (stratégie fixe)
-  description: Dynamics 365 Business central local (stratégie fixe) suit la stratégie de cycle de vie fixe.
+  title: Dynamics 365 Business Central local (politique fixe)
+  description: Dynamics 365 Business Central local (politique fixe) suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: eec6e6713736926961ab8bdd81b36fcbdeaf3dec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869180"
-name: Dynamics 365 entreprise central en local (stratégie fixe)
+name: Dynamics 365 Business Central local (politique fixe)
 summary: >+
-  Dynamics 365 Business central local (stratégie fixe) suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Dynamics 365 Business Central local (politique fixe) suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
