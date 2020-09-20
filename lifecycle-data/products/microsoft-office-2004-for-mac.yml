@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2004 pour Mac
-  description: Microsoft Office 2004 pour Mac suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office 2004 pour Mac
+  description: Microsoft Office 2004 pour Mac suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Student and Teacher
   ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936837"
-name: Microsoft Office 2004 pour Mac
+name: Microsoft Office 2004 pour Mac
 summary: >+
-  Microsoft Office 2004 pour Mac suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office 2004 pour Mac suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : professionnel, standard, étudiant et enseignant
+  Cela s’applique aux éditions suivantes : Professionnel, Standard, Student and Teacher
 
 products:
 - office

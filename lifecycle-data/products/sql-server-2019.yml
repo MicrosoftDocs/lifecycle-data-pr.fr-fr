@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL Server 2019
-  description: SQL Server 2019 suit la stratégie de cycle de vie fixe.
+  title: SQL Server 2019
+  description: SQL Server 2019 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
   ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937963"
-name: SQL Server 2019
+name: SQL Server 2019
 summary: >+
-  SQL Server 2019 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  SQL Server 2019 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : sur Linux (toutes les éditions), sur Windows (toutes les éditions)
+  Cela concerne les éditions suivantes : sur Linux (toutes les éditions), sur Windows (toutes les éditions)
 
 products:
 - sql-server
