@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Composants Web Microsoft Office XP dans Office 2003
-  description: Microsoft Office XP Web Components in Office 2003 suit la stratégie de cycle de vie des composants.
+  title: Microsoft Office XP Web Components dans Office 2003
+  description: Microsoft Office XP Web Components dans Office 2003 suit la politique de cycle de vie des composants.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815514"
-name: Composants Web Microsoft Office XP dans Office 2003
+name: Microsoft Office XP Web Components dans Office 2003
 summary: >+
-  Microsoft Office XP Web Components in Office 2003 suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Office XP Web Components dans Office 2003 suit la politique de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

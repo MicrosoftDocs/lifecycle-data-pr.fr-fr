@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Contrôleur d’application Microsoft System Center 2012 R2
-  description: Le contrôleur d’application Microsoft System Center 2012 R2 suit la stratégie de cycle de vie fixe.
+  title: Contrôleur d’application Microsoft System Center 2012 R2
+  description: Le contrôleur d’applications Microsoft System Center 2012 R2 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: df618e70dc7d07bc88c666674936f9e7b255a65b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853384"
-name: Contrôleur d’application Microsoft System Center 2012 R2
+name: Contrôleur d’application Microsoft System Center 2012 R2
 summary: >+
-  Le contrôleur d’application Microsoft System Center 2012 R2 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Le contrôleur d’applications Microsoft System Center 2012 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Liens \n* [Documentation de System Center](/system-center/#pivot=components&panel=components-all)\n* [Ressources System Center](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Documentation à propos de System Center](/system-center/#pivot=components&panel=components-all)\n* [Ressources de System Center](https://www.microsoft.com/system-center/resources)"
