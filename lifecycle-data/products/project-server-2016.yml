@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2016
-  description: Project Server 2016 suit la stratégie de cycle de vie fixe.
+  description: Project Server 2016 suit la politique de cycle de vie fixe.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941446"
-name: Project Server 2016
+name: Project Server 2016
 summary: >+
-  Project Server 2016 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Project Server 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Consultez la documentation sur les [produits](https://docs.microsoft.com/project/project-server-2013-and-2016) et les [développeurs](https://developer.microsoft.com/project/docs) ."
+content: "\n\n> [!NOTE]\n> Consultez la documentation [produit](https://docs.microsoft.com/project/project-server-2013-and-2016) et [développeurs](https://developer.microsoft.com/project/docs)."
