@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office XP
-  description: Office XP suit la stratégie de cycle de vie fixe.
+  title: Office XP
+  description: Office XP suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928787"
-name: Office XP
+name: Office XP
 summary: >+
-  Office XP suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Office XP suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : développeur, professionnel, outils de vérification linguistique, standard, composants Web
+  Ceci s’applique aux éditions suivantes : Développeur, Professionnel, Outils de vérification, Standard, Composants web
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Developer\n* Professionnel\n* Outils de vérification linguistique\n* Standard\n* Composants Web"
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Developer\n* Professionnel\n* Outils de vérification\n* Standard\n* Composants Web"

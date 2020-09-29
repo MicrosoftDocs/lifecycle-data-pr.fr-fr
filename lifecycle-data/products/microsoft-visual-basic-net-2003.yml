@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Basic .NET 2003
-  description: Microsoft Visual Basic .NET 2003 suit la stratégie de cycle de vie fixe.
+  description: Microsoft Visual Basic .NET 2003 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938148"
 name: Microsoft Visual Basic .NET 2003
 summary: >+
-  Microsoft Visual Basic .NET 2003 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Visual Basic .NET 2003 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
   Ceci s’applique aux éditions suivantes : Standard
