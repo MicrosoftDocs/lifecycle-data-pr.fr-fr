@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove 3,1
-  description: Groove 3,1 suit la stratégie de cycle de vie fixe.
+  title: Groove 3.1
+  description: Groove 3.1 suit la politique de cycle de vie fixe.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950833"
-name: Groove 3,1
+name: Groove 3.1
 summary: >+
-  Groove 3,1 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Groove 3.1 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : service de sauvegarde d’entreprise, Enterprise Data Bridge, serveur de relais d’entreprise, services de gestion hébergée, services de relais hébergé, projet Office, partage de fichiers Office virtuel, Virtual Office Professionnel, kit de développement de services Web
+  Ceci s’applique aux éditions suivantes : Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Service de sauvegarde d’entreprise\n* Enterprise Data Bridge\n* Serveur relais d’entreprise\n* Services de gestion hébergée\n* Services de relais hébergé\n* Projet Office\n* Partage de fichiers Office virtuel\n* Office professionnel\n* Kit de développement de services Web"
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
