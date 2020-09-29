@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense matériel commercial 1,0
-  description: PixelSense le matériel commercial 1,0 suit la stratégie de cycle de vie fixe.
+  title: PixelSense Commercial Hardware 1.0
+  description: PixelSense Commercial Hardware 1.0 suit la stratégie du cycle de vie fixe.
   ms.date: 08/12/2020
   ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893935"
-name: PixelSense matériel commercial 1,0
+name: PixelSense Commercial Hardware 1.0
 summary: >+
-  PixelSense le matériel commercial 1,0 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  PixelSense Commercial Hardware 1.0 suit la stratégie du cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

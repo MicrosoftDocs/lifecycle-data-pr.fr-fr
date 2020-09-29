@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Portails Adxstudio V6. x ou versions antérieures
-  description: Les portails Adxstudio V6. x ou une précédente suivent la stratégie de cycle de vie fixe.
+  title: Adxstudio Portals v6.x ou version antérieure
+  description: Adxstudio Portals v6.x ou version antérieure suit la stratégie de cycle de vie fixe.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924360"
-name: Portails Adxstudio V6. x ou versions antérieures
+name: Adxstudio Portals v6.x ou version antérieure
 summary: >+
-  Les portails Adxstudio V6. x ou une précédente suivent la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Adxstudio Portals v6.x ou version antérieure suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Liens \n* [FAQ sur le cycle de vie-acquisitions](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Le support pour ce produit est soumis aux termes de son acquisition et est terminé."
+content: "\n## <a name=\"links\"></a>Liens \n* [FAQ sur le cycle de vie - Acquisitions](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Le support de ce produit est soumis aux conditions d’acquisition applicables et a pris fin."

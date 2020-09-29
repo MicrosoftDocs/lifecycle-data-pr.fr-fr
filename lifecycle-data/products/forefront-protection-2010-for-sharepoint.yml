@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Protection 2010 pour SharePoint
-  description: Forefront Protection 2010 pour SharePoint suit la stratégie de cycle de vie fixe.
+  title: Forefront Protection 2010 for SharePoint
+  description: Forefront Protection 2010 for SharePoint suit la politique de cycle de vie fixe.
   ms.date: 08/21/2020
   ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908718"
-name: Forefront Protection 2010 pour SharePoint
+name: Forefront Protection 2010 for SharePoint
 summary: >+
-  Forefront Protection 2010 pour SharePoint suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Forefront Protection 2010 for SharePoint suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> La feuille de route pour les produits de sécurité sous la marque Forefront a changé. Ce produit est abandonné depuis le 31 décembre 2015."
+content: "\n\n> [!NOTE]\n> La feuille de route pour les produits de sécurité sous la marque Forefront a changé.  Ce produit n’est plus disponible à partir du 31 décembre 2015.\n\n\n"
