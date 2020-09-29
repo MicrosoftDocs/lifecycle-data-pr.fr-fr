@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Agent de test, contrôleur
-  description: Agent de test, contrôleur suit la stratégie de cycle de vie des composants.
+  title: Contrôleur d’agent de test
+  description: Le contrôleur d’agent de test suit la politique du cycle de vie des composants.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894954"
-name: Agent de test, contrôleur
+name: Contrôleur d’agent de test
 summary: >+
-  Agent de test, contrôleur suit la stratégie de cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Le contrôleur d’agent de test suit la politique du cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

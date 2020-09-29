@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serveur DevOps Azure
-  description: Azure DevOps Server suit la stratégie de cycle de vie fixe.
+  title: Azure DevOps Server
+  description: Azure DevOps Server suit la politique de cycle de vie fixe.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922960"
-name: Serveur DevOps Azure
+name: Azure DevOps Server
 summary: >+
-  Azure DevOps Server suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Azure DevOps Server suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

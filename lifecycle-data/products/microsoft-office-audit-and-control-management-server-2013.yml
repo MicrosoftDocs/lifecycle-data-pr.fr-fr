@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office audit and Control Management Server 2013
-  description: Microsoft Office audit and Control Management Server 2013 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit and Control Management Server 2013 suit la politique de cycle de vie fixe.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907908"
-name: Microsoft Office audit and Control Management Server 2013
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Microsoft Office audit and Control Management Server 2013 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft Office Audit and Control Management Server 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

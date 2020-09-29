@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trousse à outils d’amélioration de la prévention des risques
-  description: Enhanced mitigation Integrator Toolkit (EMET) suit la stratégie de cycle de vie fixe.
+  title: Boîte à outils de l'expérience d'atténuation améliorée (EMET)
+  description: Le kit de ressources EMET (Enhanced Mitigation Experience Toolkit) suit la stratégie du cycle de vie fixe.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905293"
-name: Trousse à outils d’amélioration de la prévention des risques
+name: Boîte à outils de l'expérience d'atténuation améliorée (EMET)
 summary: >+
-  Enhanced mitigation Integrator Toolkit (EMET) suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Le kit de ressources EMET (Enhanced Mitigation Experience Toolkit) suit la stratégie du cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Kit de développement logiciel Microsoft PlayReady Server '
-  description: Le kit de développement logiciel Microsoft PlayReady Server suit la stratégie de cycle de vie fixe.
+  title: 'Kit de développement logiciel (SDK) Microsoft PlayReady Server '
+  description: Le kit de développement logiciel Microsoft PlayReady Server suit la stratégie du cycle de vie fixe.
   ms.date: 08/21/2020
   ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908019"
-name: 'Kit de développement logiciel Microsoft PlayReady Server '
+name: 'Kit de développement logiciel (SDK) Microsoft PlayReady Server '
 summary: >+
-  Le kit de développement logiciel Microsoft PlayReady Server suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Le kit de développement logiciel Microsoft PlayReady Server suit la stratégie du cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

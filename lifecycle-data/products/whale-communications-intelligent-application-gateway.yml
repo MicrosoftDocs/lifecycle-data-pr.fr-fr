@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Passerelle d’applications intelligentes pour la baleine
-  description: La « baleines communications Intelligent Application Gateway » suit la stratégie de cycle de vie fixe.
+  title: Whale Communications Intelligent Application Gateway
+  description: Whale Communications Intelligent Application Gateway suit la politique de cycle de vie fixe.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907138"
-name: Passerelle d’applications intelligentes pour la baleine
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  La « baleines communications Intelligent Application Gateway » suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Whale Communications Intelligent Application Gateway suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
