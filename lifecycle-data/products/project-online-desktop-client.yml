@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Client de bureau Project Online
-  description: Le client de bureau Project Online suit la stratégie de cycle de vie moderne.
+  description: Le Client de bureau Project Online suit la politique de cycle de vie moderne.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853266"
 name: Client de bureau Project Online
 summary: >+
-  Le client de bureau Project Online suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+  Le Client de bureau Project Online suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Liens \n* [Configuration requise](https://products.office.com/office-system-requirements)\n* [Informations de maintenance](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Configuration requise](https://products.office.com/office-system-requirements)\n* [Informations de service](https://technet.microsoft.com/library/mt584223.aspx)"

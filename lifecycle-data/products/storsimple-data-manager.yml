@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gestionnaire de données StorSimple
-  description: Le gestionnaire de données StorSimple suit la stratégie de cycle de vie fixe.
+  title: StorSimple Data Manager
+  description: StorSimple Data Manager suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869224"
-name: Gestionnaire de données StorSimple
+name: StorSimple Data Manager
 summary: >+
-  Le gestionnaire de données StorSimple suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  StorSimple Data Manager suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
