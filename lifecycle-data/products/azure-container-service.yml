@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Service de conteneur Azure
-  description: Le service de conteneur Azure suit la stratégie de cycle de vie moderne.
+  title: Service de conteneurs Azure
+  description: Azure Container Service suit la politique de cycle de vie moderne.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853175"
-name: Service de conteneur Azure
+name: Service de conteneurs Azure
 summary: >+
-  Le service de conteneur Azure suit la stratégie de cycle de vie [moderne](/lifecycle/policies/modern) .
+  Azure Container Service suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/18/2016
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils de migration](/azure/aks/acs-aks-migration)"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/azure/aks/acs-aks-migration)"

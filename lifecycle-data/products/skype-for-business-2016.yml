@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype Entreprise 2016
-  description: Skype entreprise 2016 suit la stratégie de cycle de vie fixe.
+  title: Skype Entreprise 2016
+  description: Skype Entreprise 2016 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853564"
-name: Skype Entreprise 2016
+name: Skype Entreprise 2016
 summary: >+
-  Skype entreprise 2016 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Skype Entreprise 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Excel 2016 pour Mac
-  description: Excel 2016 pour Mac suit la stratégie de cycle de vie fixe.
+  title: Excel 2016 pour Mac
+  description: Excel 2016 pour Mac suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 669ce6b5a17f553274d47ddc9a3b61a4ffc539ff
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853507"
-name: Excel 2016 pour Mac
+name: Excel 2016 pour Mac
 summary: >+
-  Excel 2016 pour Mac suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Excel 2016 pour Mac suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:

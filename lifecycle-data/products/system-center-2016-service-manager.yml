@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gestionnaire de services System Center 2016
-  description: System Center 2016 Service Manager suit la stratégie de cycle de vie fixe.
+  title: System Center 2016 Service Manager
+  description: System Center 2016 Service Manager suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853654"
-name: Gestionnaire de services System Center 2016
+name: System Center 2016 Service Manager
 summary: >+
-  System Center 2016 Service Manager suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  System Center 2016 Service Manager suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
