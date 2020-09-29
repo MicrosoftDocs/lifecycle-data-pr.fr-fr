@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft PowerPoint 2004 pour Mac
-  description: Microsoft PowerPoint 2004 pour Mac suit la stratégie de cycle de vie fixe.
+  title: Microsoft PowerPoint 2004 pour Mac
+  description: Microsoft PowerPoint 2004 pour Mac suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7f246c660964e69224be7d0ad744b079e9fa0295
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816064"
-name: Microsoft PowerPoint 2004 pour Mac
+name: Microsoft PowerPoint 2004 pour Mac
 summary: >+
-  Microsoft PowerPoint 2004 pour Mac suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Microsoft PowerPoint 2004 pour Mac suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
