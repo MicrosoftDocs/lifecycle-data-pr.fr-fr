@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PolicyMaker
-  description: PolicyMaker suit la stratégie de cycle de vie fixe.
+  description: PolicyMaker suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938037"
 name: PolicyMaker
 summary: >+
-  PolicyMaker suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  PolicyMaker suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : Application Security, Outlook Edition, Professional 9,0, Registry extension 2,0, share Manager 1,0, Software Update 1,0, Software Update 2,0, standard 1,0, standard 2,0
+  Ceci s’applique aux éditions suivantes : Sécurité des applications, Édition Outlook, Professionnel 9.0, Extension du Registre 2.0, Share Manager 1.0, Mise à jour logicielle 1.0, Mise à jour logicielle 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Le support de ce produit est soumis aux conditions d’acquisition applicables.\n\n## <a name=\"editions\"></a>Éditions \n* Sécurité des applications\n* Outlook Edition\n* Professionnel 9,0\n* Extension de registre 2,0\n* Gestionnaire de partage 1,0\n* Mise à jour logicielle 1,0\n* Mise à jour logicielle 2,0\n* Norme 1,0\n* Norme 2,0"
+content: "\n\n> [!NOTE]\n> Le support de ce produit est soumis aux conditions d’acquisition applicables.\n\n## <a name=\"editions\"></a>Éditions \n* Sécurité des applications\n* Édition Outlook\n* Professionnel 9.0\n* Extension du Registre 2.0\n* Share Manager 1.0\n* Mise à jour logicielle 1.0\n* Mise à jour logicielle 2.0\n* Standard 1.0\n* Standard 2.0\n"

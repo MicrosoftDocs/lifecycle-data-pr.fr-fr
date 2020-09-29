@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Security and Acceleration Server 2004
-  description: Microsoft Internet Security and Acceleration Server 2004 suit la stratégie de cycle de vie fixe.
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933486"
-name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .\n\nCeci s’applique aux éditions suivantes : Entreprise, Standard\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes : Entreprise, Standard\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. \n"
 products:
 - microsoft-servers
 policyType: fixed

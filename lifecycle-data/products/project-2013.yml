@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2013
-  description: Le projet 2013 suit la stratégie de cycle de vie fixe.
+  description: Project 2013 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926456"
 name: Project 2013
 summary: >+
-  Le projet 2013 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Project 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
   Ceci s’applique aux éditions suivantes : Professionnel, Standard

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Publisher 2013
-  description: Publisher 2013 suit la stratégie de cycle de vie fixe.
+  title: Publisher 2013
+  description: Publisher 2013 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 351331904acc01202c407f88c65b40ec18af6907
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926160"
-name: Publisher 2013
+name: Publisher 2013
 summary: >+
-  Publisher 2013 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Publisher 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
   Ceci s’applique aux éditions suivantes : Standard

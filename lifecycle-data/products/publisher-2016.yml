@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Publisher 2016
-  description: Publisher 2016 suit la stratégie de cycle de vie fixe.
+  description: Publisher 2016 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: da399cd636aa0fe84a000ab93878bcf08c27f446
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926123"
 name: Publisher 2016
 summary: >+
-  Publisher 2016 suit la stratégie de cycle de vie [fixe](/lifecycle/policies/fixed) .
+  Publisher 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
   Ceci s’applique aux éditions suivantes : Standard
