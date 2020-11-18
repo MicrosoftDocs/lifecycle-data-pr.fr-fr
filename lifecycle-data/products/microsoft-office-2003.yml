@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2003 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Basique, Professionnel, Professionnel Entreprise, PME, Standard, Étudiant et Enseignant, Composants Web
+  Ceci s’applique aux éditions suivantes : Basique, Professionnel, Professionnel Entreprise, Petite entreprise, Standard, Étudiant et Enseignant, Composants Web
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basic\n* Professionnel\n* Professionnel Entreprise\n* Petite Entreprise\n* Standard\n* Étudiant et Enseignant\n* Composants Web"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basique\n* Professionnel\n* Professionnel Entreprise\n* Petite Entreprise\n* Standard\n* Étudiant et Enseignant\n* Composants Web"

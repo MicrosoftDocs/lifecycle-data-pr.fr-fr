@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2007 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Basic, Entreprise, Famille et Étudiant, Pack multilangue, Professionnel, Professionnel Plus, Petite Entreprise, Standard, Ultimate
+  Ceci s’applique aux éditions suivantes : Basique, Entreprise, Famille et Étudiant, Pack multilangue, Professionnel, Professionnel Plus, Petite Entreprise, Standard, Intégrale
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basic\n* Entreprise\n* Famille et Étudiant\n* Pack multilangue\n* Professionnel\n* Professionnel Plus\n* Petite Entreprise\n* Standard\n* Intégrale"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Éditions \n* Basique\n* Entreprise\n* Famille et Étudiant\n* Pack multilangue\n* Professionnel\n* Professionnel Plus\n* Petite Entreprise\n* Standard\n* Intégrale"

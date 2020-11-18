@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway, Édition Moyenne Entreprise
-  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition suit la politique de cycle de vie fixe.
+  description: Microsoft Forefront Threat Management Gateway, Édition Moyenne Entreprise suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
   keywords: Business
   ms.openlocfilehash: 617a31241001b12abf13c658e47dbc6f0b1974a2
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1001905"
 name: Microsoft Forefront Threat Management Gateway, Édition Moyenne Entreprise
 summary: >+
-  Microsoft Forefront Threat Management Gateway, Medium Business Edition suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+  Microsoft Forefront Threat Management Gateway, Édition Moyenne Entreprise suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela concerne les éditions suivantes : Business
+  Cela concerne les éditions suivantes : Entreprise
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Éditions \n* Professionnel"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise"
