@@ -15,7 +15,7 @@ summary: >+
   Microsoft Lync Server 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Entreprise, Kit de développement du logiciel de conversation permanente, Phone, SDK, Standard
+  Ceci s’applique aux éditions suivantes : Entreprise, Kit de développement du logiciel de conversation permanente, Téléphone, SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition est pris en charge par Lync Server 2010 et Lync Server 2013. La date de support de Lync Phone Edition a été prolongée de 2 ans pour s’aligner sur le cycle de vie de Lync Server 2013.\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Kit de développement du logiciel de conversation permanente\n* Téléphone\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition est pris en charge par Lync Server 2010 et Lync Server 2013. La date de support de Lync Édition Téléphone a été prolongée de 2 ans pour s’aligner sur le cycle de vie de Lync Server 2013.\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Kit de développement du logiciel de conversation permanente\n* Téléphone\n* SDK\n* Standard"

@@ -15,7 +15,7 @@ summary: >+
   Office XP suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Développeur, Professionnel, Outils de vérification, Standard, Composants web
+  Ceci s’applique aux éditions suivantes : Développeur, Professionnel, Outils de vérification, Standard, Composants Web
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Developer\n* Professionnel\n* Outils de vérification\n* Standard\n* Composants Web"
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Développeur\n* Professionnel\n* Outils de vérification\n* Standard\n* Composants Web"

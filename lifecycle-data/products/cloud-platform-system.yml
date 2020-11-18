@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Système de plate-forme cloud
+  title: Cloud Platform System
   description: Cloud Platform System suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932043"
-name: Système de plate-forme cloud
+name: Cloud Platform System
 summary: >+
   Cloud Platform System suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 

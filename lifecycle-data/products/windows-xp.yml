@@ -15,7 +15,7 @@ summary: >
   Windows XP suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Famille, Professionnel, Professionnel for Embedded Systems, Professionnel Édition 64 bits, Starter
+  Ceci s’applique aux éditions suivantes : Famille, Professionnel, Professionnel for Embedded Systems, Édition Professionnel 64 bits, Starter
 
 
   > [!IMPORTANT]
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La date de début de Microsoft Windows XP Professionnel édition x64 était le 24 avril 2005.\n\n## <a name=\"editions\"></a>Éditions \n* Famille\n* Professionnel\n* Professional for Embedded Systems\n* Windows XP Professionnel Édition 64 bits\n* Starter\n"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La date de début de Microsoft Windows XP Édition Professionnel x64 était le 24 avril 2005.\n\n## <a name=\"editions\"></a>Éditions \n* Famille\n* Professionnel\n* Professional for Embedded Systems\n* Windows XP Édition Professionnel 64 bits\n* Starter\n"

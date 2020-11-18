@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
-  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops suit la politique de cycle de vie fixe.
+  title: Microsoft Application Virtualization Hosting 5.0 pour les bureaux Windows
+  description: Microsoft Application Virtualization Hosting 5.0 pour les bureaux Windows suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: fr-FR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935373"
-name: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
+name: Microsoft Application Virtualization Hosting 5.0 pour les bureaux Windows
 summary: >+
-  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+  Microsoft Application Virtualization Hosting 5.0 pour les bureaux Windows suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela concerne les éditions suivantes : for Windows Desktops
+  Cela concerne les éditions suivantes : pour les bureaux Windows
 
 products:
 - windows

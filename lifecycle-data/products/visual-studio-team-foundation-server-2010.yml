@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Cela s’applique aux éditions suivantes : Toutes les versions applicables, Connecteur externe
+  Cela s’applique aux éditions suivantes : Toutes versions applicables, Connecteur externe
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Éditions \n* Tous applicables\n* Connecteur externe"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Éditions \n* Toutes versions applicables\n* Connecteur externe"

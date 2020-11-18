@@ -15,7 +15,7 @@ summary: >
   Visual Studio Team System 2008 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Toutes, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
+  Ceci s’applique aux éditions suivantes : Tous, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Conseils en matière de migration](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* tous\n* Architecture\n* Database\n* Développement\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Conseils en matière de migration](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Tous\n* Architecture\n* Database\n* Développement\n* Team Explorer\n* Team Test Load Agent\n* TFS"

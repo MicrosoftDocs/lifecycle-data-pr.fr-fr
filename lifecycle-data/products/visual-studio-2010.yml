@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Agents, Tous, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Outils d’analyse de performance, Premium, Professionnel, Professionnel w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Ceci s’applique aux éditions suivantes : Agents, Tous, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Outils d’analyse des performances, Premium, Professionnel, Professionnel w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* tous\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Outils d’analyse des performances\n* Premium\n* Professionnel\n* Professional avec MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Intégrale\n* Ultimate avec MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* Tous\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Outils d’analyse des performances\n* Premium\n* Professionnel\n* Professional avec MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Intégrale\n* Ultimate avec MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

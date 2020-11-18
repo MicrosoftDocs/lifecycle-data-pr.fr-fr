@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Agents, Community 2013, Express pour le Web, Express pour Windows 8, Express pour Windows Desktop, Collecteur IntelliTrace, Microsoft Azure Tools, Premium, Professional, Outils de contrôle à distance, Shell (integré), Shell (isolé), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistribuable, Web Tools Extensions
+  Ceci s’applique aux éditions suivantes : Agents, Community 2013, Express pour le Web, Express pour Windows 8, Express pour Windows Desktop, Collecteur IntelliTrace, Microsoft Azure Tools, Premium, Professional, Outils de contrôle à distance, Shell (Intégré), Shell (Isolé), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistribuable, Web Tools Extensions
 
 products:
 - vs
