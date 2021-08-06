@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT LTSC 2019
+  description: Windows 10 IoT LTSC 2019 suit la politique de cycle de vie fixe.
+  ms.date: 07/17/2021
+  keywords: 
+  ms.openlocfilehash: 46286787eaf0f79f8ed166f0f566af719513e2e4
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172168"
+name: Windows 10 IoT LTSC 2019
+summary: >+
+  Windows 10 IoT LTSC 2019 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+
+  Ceci s’applique aux éditions suivantes : Core, Entreprise
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Mise à jour d’octobre 2018 de Windows 10](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [FAQ sur Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n> [!NOTE]\n> [Windows 10 IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal) est un abonnement requis pour l’édition Core de ce produit. \n\n\n## <a name=\"editions\"></a>Éditions \n* Core\n* Entreprise\n\n"
