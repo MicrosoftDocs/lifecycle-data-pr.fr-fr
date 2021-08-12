@@ -3,29 +3,24 @@ metadata:
   title: Microsoft BizTalk Accelerator pour les services financiers 1.0
   description: Microsoft BizTalk Accelerator pour les services financiers 1.0 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935336"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator pour les services financiers 1.0
-summary: >+
-  Microsoft BizTalk Accelerator pour les services financiers 1.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Entreprise, Standard
-
+summary: "Microsoft BizTalk Accelerator pour les services financiers 1.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Entreprise, Standard\n\n"
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 03/12/2003
   end: 04/08/2008
   extendedEnd: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2003
-  endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Standard"
+  - version: Original Release
+    startDate: 03/12/2003
+    endDate: 04/09/2013
+content: |
+
+
+
+  ## <a name="editions"></a>Éditions 
+  * Entreprise
+  * Standard

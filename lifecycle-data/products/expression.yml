@@ -3,24 +3,28 @@ metadata:
   title: Expression
   description: Expression suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936224"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes : Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. \n"
+summary: "Expression suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin. \n"
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> La date de début d’Expression Blend est le 13 juillet 2007. \n\n## <a name=\"editions\"></a>Éditions \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > La date de début d’Expression Blend est le 13 juillet 2007. 
+
+  ## <a name="editions"></a>Éditions 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

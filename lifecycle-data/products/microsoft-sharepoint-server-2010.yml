@@ -1,37 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint Server 2010
+  title: "Microsoft SharePoint Server\_2010"
   description: Microsoft SharePoint Server 2010 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941557"
-name: Microsoft SharePoint Server 2010
-summary: >+
-  Microsoft SharePoint Server 2010 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Access Services, Tous applicables, Excel Services, PerformancePoint Services
-
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
+name: "Microsoft SharePoint Server\_2010"
+summary: "Microsoft SharePoint Server 2010 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Access Services, Tous applicables, Excel Services, PerformancePoint Services\n\n"
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liens \n* [Extension de support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Conseils sur les performances de migration](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Documentation développeurs pour Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentation produit pour Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> la date de fin du support de ce produit est reportée du 13 octobre 2020 au 13 avril 2021.\n\n## <a name=\"editions\"></a>Éditions \n* Access Services\n* Tous applicables\n* Excel Services\n* PerformancePoint Services\n"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Liens \n* [Extension de support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Conseils sur les performances de migration](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Documentation développeurs pour Microsoft SharePoint Server\_2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentation produit pour Microsoft SharePoint Server\_2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> la date de fin du support de ce produit est reportée du 13\_octobre\_2020 au 13\_avril\_2021.\n\n## <a name=\"editions\"></a>Éditions \n* Access Services\n* Tous applicables\n* Excel Services\n* PerformancePoint Services\n"
