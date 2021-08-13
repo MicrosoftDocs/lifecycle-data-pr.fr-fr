@@ -1,31 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Outlook 2013
+  title: "Outlook\_2013"
   description: Outlook 2013 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 2678d0bb53f3c29f23028aa934729776d1c73d7c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926789"
-name: Outlook 2013
-summary: >+
-  Outlook 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Standard
-
+name: "Outlook\_2013"
+summary: "Outlook 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Standard\n\n"
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/11/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Éditions 
+  * Standard

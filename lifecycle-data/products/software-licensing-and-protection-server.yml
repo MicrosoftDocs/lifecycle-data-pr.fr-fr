@@ -3,33 +3,26 @@ metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001054"
+  keywords: 'Enterprise,Standard'
 name: Software Licensing and Protection Server
-summary: >
-  Software Licensing and Protection Server suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Cela concerne les éditions suivantes : Entreprise, Standard
-
-
-  > [!IMPORTANT]
-
-  > En raison du désengagement de Software Licensing and Protection Server (SLPS), Microsoft a pris en charge SLPS jusqu’au 24 septembre 2009.
+summary: "Software Licensing and Protection Server suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCela concerne les éditions suivantes\_: Entreprise, Standard\n\n> [!IMPORTANT]\n> En raison du désengagement de Software Licensing and Protection Server (SLPS), Microsoft a pris en charge SLPS jusqu’au 24 septembre 2009.\n"
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liens \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Liens 
+  * [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Éditions 
+  * Entreprise
+  * Standard

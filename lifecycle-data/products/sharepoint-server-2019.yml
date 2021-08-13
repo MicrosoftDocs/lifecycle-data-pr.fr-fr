@@ -1,29 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SharePoint Server 2019
+  title: "SharePoint Server\_2019"
   description: SharePoint Server 2019 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 04aeff151809d56448eda49c96441651a9675171
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941668"
-name: SharePoint Server 2019
-summary: >+
+name: "SharePoint Server\_2019"
+summary: |+
   SharePoint Server 2019 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/22/2018
   end: 01/09/2024
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 10/22/2018
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> Consultez la documentation [produit](https://docs.microsoft.com/sharepoint/sharepoint-server) et [développeur](https://developer.microsoft.com/sharepoint/docs)."
+  - version: Original Release
+    startDate: 10/22/2018
+    endDate: 07/14/2026
+content: |+
+
+  ## <a name="links"></a>Liens 
+  * [Informations de service](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)
+
+  > [!NOTE]
+  > Consultez la documentation [produit](https://docs.microsoft.com/sharepoint/sharepoint-server) et [développeur](https://developer.microsoft.com/sharepoint/docs).
