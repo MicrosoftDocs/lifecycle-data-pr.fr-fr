@@ -3,33 +3,18 @@ metadata:
   title: SoftGrid Application Virtualization
   description: SoftGrid Application Virtualization suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
-  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
-  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001017"
+  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
 name: SoftGrid Application Virtualization
-summary: >
-  SoftGrid Application Virtualization suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : 4.1 pour Bureaux, 4.2 pour Bureaux, pour Terminal Services 4.1
-
-
-  > [!IMPORTANT]
-
-  > Le support est terminé. Voir les conseils de migration ci-dessous.
+summary: "SoftGrid Application Virtualization suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: 4.1 pour Bureaux, 4.2 pour Bureaux, pour Terminal Services\_4.1\n\n> [!IMPORTANT]\n> Le support est terminé. Voir les conseils de migration ci-dessous.\n"
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/25/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 05/25/2007
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Éditions \n* 4.1 pour Bureaux\n* 4.2 pour Bureaux\n* pour Terminal Services 4.1\n"
+  - version: Original Release
+    startDate: 05/25/2007
+    endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Éditions \n* 4.1 pour Bureaux\n* 4.2 pour Bureaux\n* pour Terminal Services\_4.1\n"
