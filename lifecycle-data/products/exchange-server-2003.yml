@@ -1,37 +1,34 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Exchange Server 2003
+  title: "Exchange\_Server\_2003"
   description: Exchange Server 2003 suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 63e0206ae02adc44408ceb0c0c73bd25217d1695
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000018"
-name: Exchange Server 2003
-summary: >+
-  Exchange Server 2003 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Entreprise, Standard
-
+  keywords: 'Enterprise,Standard'
+name: "Exchange\_Server\_2003"
+summary: "Exchange Server 2003 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Entreprise, Standard\n\n"
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/28/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 2
-  startDate: 10/19/2005
-  endDate: 04/08/2014
-- version: Service Pack 1
-  startDate: 05/25/2004
-  endDate: 01/08/2008
-- version: Original Release
-  startDate: 09/28/2003
-  endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>Liens \n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise\n* Standard"
+  - version: Service Pack 2
+    startDate: 10/19/2005
+    endDate: 04/08/2014
+  - version: Service Pack 1
+    startDate: 05/25/2004
+    endDate: 01/08/2008
+  - version: Original Release
+    startDate: 09/28/2003
+    endDate: 05/25/2005
+content: |
+
+  ## <a name="links"></a>Liens 
+  * [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Éditions 
+  * Entreprise
+  * Standard
