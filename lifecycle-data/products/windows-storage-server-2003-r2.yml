@@ -4,26 +4,27 @@ metadata:
   description: Windows Storage Server 2003 R2 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940832"
 name: Windows Storage Server 2003 R2
-summary: "Windows Storage Server 2003 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes : Standard\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin.\nProduit expédié avec Windows Server 2003 Service Pack 1. \n"
+summary: "Windows Storage Server 2003 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Standard\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin.\nProduit expédié avec Windows Server 2003 Service Pack 1. \n"
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |
+
+  ## <a name="links"></a>Liens 
+  * [Conseils en matière de migration](/windows-server/upgrade/upgrade-overview)
+
+
+  ## <a name="editions"></a>Éditions 
+  * Standard

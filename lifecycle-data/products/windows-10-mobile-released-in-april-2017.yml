@@ -1,31 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile, publié en avril 2017
-  description: Windows 10 Mobile, sorti en Avril 2017, suit la politique de cycle de vie fixe.
+  title: 'Windows 10 Mobile, publié en avril 2017'
+  description: "Windows 10 Mobile, sorti en Avril\_2017, suit la politique de cycle de vie fixe."
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0342a513e9223085885577a70a595292c7b43ce
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869236"
-name: Windows 10 Mobile, publié en avril 2017
-summary: >
-  Windows 10 Mobile, sorti en Avril 2017, suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-
-  > [!IMPORTANT]
-
-  > Le support de ce produit a pris fin.
+name: 'Windows 10 Mobile, publié en avril 2017'
+summary: "Windows 10 Mobile, sorti en Avril\_2017, suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Le support de ce produit a pris fin.\n"
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/25/2017
   end: 06/11/2019
 releases:
-- version: Original Release
-  startDate: 04/25/2017
-  endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>Liens \n* [FAQ sur le cycle de vie du système d’exploitation de l’appareil](/lifecycle/faq/device-operating-systems)\n* [Le support de Windows 10 Mobile a pris fin le 10 décembre 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 04/25/2017
+    endDate: 06/11/2019
+content: |+
+
+  ## <a name="links"></a>Liens 
+  * [FAQ sur le cycle de vie du système d’exploitation de l’appareil](/lifecycle/faq/device-operating-systems)
+  * [Le support de Windows 10 Mobile a pris fin le 10 décembre 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)

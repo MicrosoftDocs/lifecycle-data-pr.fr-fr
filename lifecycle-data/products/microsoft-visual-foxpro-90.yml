@@ -4,28 +4,22 @@ metadata:
   description: Microsoft Visual FoxPro 9.0 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Professional
-  ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929305"
 name: Microsoft Visual FoxPro 9.0
-summary: >+
-  Microsoft Visual FoxPro 9.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Professionnel
-
+summary: "Microsoft Visual FoxPro 9.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Professionnel\n\n"
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 12/22/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 12/22/2004
-  endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Professionnel"
+  - version: Original Release
+    startDate: 12/22/2004
+    endDate: 01/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Éditions 
+  * Professionnel
