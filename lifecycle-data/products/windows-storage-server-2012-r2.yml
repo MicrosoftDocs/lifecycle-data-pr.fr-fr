@@ -3,29 +3,31 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
-  keywords: Essentials,Standard,Workgroup
-  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938999"
+  keywords: 'Essentials,Standard,Workgroup'
 name: Windows Storage Server 2012 R2
-summary: >+
-  Windows Storage Server 2012 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Essentials, Standard, Workgroup
-
+summary: "Windows Storage Server 2012 R2 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Essentials, Standard, Workgroup\n\n"
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Le support standard et étendu de ce produit a été étendu afin de fournir aux clients le calendrier de transition du cycle de vie standard.\n> [!NOTE]\n> La date de début de l’édition Essentials est le 25 septembre 2014. \n\n## <a name=\"editions\"></a>Éditions \n* Essentials\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Liens 
+  * [Conseils en matière de migration](/windows-server/upgrade/upgrade-2012r2-to-2019)
+
+  > [!NOTE]
+  > Le support standard et étendu de ce produit a été étendu afin de fournir aux clients le calendrier de transition du cycle de vie standard.
+  > [!NOTE]
+  > La date de début de l’édition Essentials est le 25 septembre 2014. 
+
+  ## <a name="editions"></a>Éditions 
+  * Essentials
+  * Standard
+  * Workgroup

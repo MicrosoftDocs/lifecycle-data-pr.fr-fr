@@ -3,28 +3,25 @@ metadata:
   title: WinTarget 2.0
   description: WinTarget 2.0 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938740"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
-  WinTarget 2.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Cela s’applique aux éditions suivantes : Avancé, Standard
-
+summary: "WinTarget 2.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCela s’applique aux éditions suivantes\_: Avancé, Standard\n\n"
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Le support de ce produit est soumis aux conditions d’acquisition applicables.\n\n## <a name=\"editions\"></a>Éditions \n* Avancé\n* Standard"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > Le support de ce produit est soumis aux conditions d’acquisition applicables.
+
+  ## <a name="editions"></a>Éditions 
+  * Avancé
+  * Standard
