@@ -1,28 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Azure Pack (sur Windows Server 2016)
+  title: "Windows Azure Pack (sur Windows Server\_2016)"
   description: Windows Azure Pack (sur Windows Server 2016) suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853207"
-name: Windows Azure Pack (sur Windows Server 2016)
-summary: >+
+name: "Windows Azure Pack (sur Windows Server\_2016)"
+summary: |+
   Windows Azure Pack (sur Windows Server 2016) suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations supplémentaires](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack pour Windows Server est une solution cloud hybride qui apporte les technologies Windows Azure à votre centre de données. Il permet aux clients Microsoft d’offrir un cloud riche, en libre-service et à plusieurs locataires sur le matériel de votre centre de données sans frais supplémentaires."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Liens 
+  * [Informations supplémentaires](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Azure Pack pour Windows Server est une solution cloud hybride qui apporte les technologies Windows Azure à votre centre de données. Il permet aux clients Microsoft d’offrir un cloud riche, en libre-service et à plusieurs locataires sur le matériel de votre centre de données sans frais supplémentaires.
