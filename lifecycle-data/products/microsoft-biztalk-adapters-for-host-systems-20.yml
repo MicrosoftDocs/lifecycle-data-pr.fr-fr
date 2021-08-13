@@ -3,29 +3,26 @@ metadata:
   title: Adaptateurs Microsoft BizTalk pour les systèmes hôtes 2.0
   description: Adaptateurs Microsoft BizTalk pour les systèmes hôtes 2.0 suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
-  keywords: Developer,Standard
-  ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000203"
+  keywords: 'Developer,Standard'
 name: Adaptateurs Microsoft BizTalk pour les systèmes hôtes 2.0
-summary: >+
-  Adaptateurs Microsoft BizTalk pour les systèmes hôtes 2.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Cela concerne les éditions suivantes : Développeur, Standard
-
+summary: "Adaptateurs Microsoft BizTalk pour les systèmes hôtes 2.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCela concerne les éditions suivantes\_: Développeur, Standard\n\n"
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/21/2009
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 06/21/2009
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Éditions \n* Développeur\n* Standard"
+  - version: Original Release
+    startDate: 06/21/2009
+    endDate: 07/09/2019
+content: |
+
+  ## <a name="links"></a>Liens 
+  * [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)
+
+
+  ## <a name="editions"></a>Éditions 
+  * Developer
+  * Standard

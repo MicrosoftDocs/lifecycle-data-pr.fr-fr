@@ -1,31 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 'Microsoft BizTalk Accelerator pour HL7 1.0 '
-  description: Microsoft BizTalk Accelerator pour HL7 1.0 suit la politique de cycle de vie fixe.
+  description: "Microsoft BizTalk Accelerator pour HL7 1.0\_suit la politique de cycle de vie fixe."
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935151"
 name: 'Microsoft BizTalk Accelerator pour HL7 1.0 '
-summary: >+
-  Microsoft BizTalk Accelerator pour HL7 1.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Ceci s’applique aux éditions suivantes : Standard
-
+summary: "Microsoft BizTalk Accelerator pour HL7 1.0\_suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Standard\n\n"
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 05/27/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 05/27/2004
-  endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard"
+  - version: Original Release
+    startDate: 05/27/2004
+    endDate: 07/08/2014
+content: |
+
+
+
+  ## <a name="editions"></a>Éditions 
+  * Standard

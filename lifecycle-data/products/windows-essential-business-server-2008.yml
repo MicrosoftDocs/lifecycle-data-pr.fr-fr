@@ -1,33 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Essential Business Server 2008
+  title: "Windows Essential Business Server\_2008"
   description: Windows Essential Business Server 2008 suit la politique de cycle de vie fixe.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: 3fdedf81f3a27848e4225c7b36b64c751c15f758
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162072"
-name: Windows Essential Business Server 2008
-summary: >
+name: "Windows Essential Business Server\_2008"
+summary: |
   Windows Essential Business Server 2008 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > La date de support du package de ce produit est déterminée par les cycles de vie respectifs de chacun des composants du produit. Veuillez examiner le cycle de vie de chaque composant du produit pour déterminer sa durée de support.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/12/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 12/12/2008
-  endDate: 02/13/2020
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://aka.ms/AA1ovn4)\n* [Informations sur le produit](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
+  - version: Original Release
+    startDate: 12/12/2008
+    endDate: 02/13/2020
+content: |+
+
+  ## <a name="links"></a>Liens 
+  * [Conseils en matière de migration](https://aka.ms/AA1ovn4)
+  * [Informations sur le produit](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)

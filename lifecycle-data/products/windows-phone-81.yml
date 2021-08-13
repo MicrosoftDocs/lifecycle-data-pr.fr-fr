@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853466"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > Le support de ce produit a pris fin.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Liens \n* [FAQ sur Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft publiera des mises à jour pour ce système d’exploitation, y compris des mises à jour de sécurité, pendant une période de 36 mois à compter de la date de début du cycle de vie. Ces mises à jour seront incrémentielles, chacune intégrant celle qui l’a précédée. Les clients doivent toujours installer la dernière mise à jour afin de pouvoir assurer le maintien du support. La distribution de ces mises à jour incrémentielles peut être contrôlée par l’opérateur mobile ou le fabricant de téléphone auprès duquel vous avez acheté votre téléphone, et l’installation exigera que votre téléphone effectue des mises à jour préalables. La disponibilité des mises à jour peut également varier en fonction du pays, de la région et des capacités matérielles."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Liens 
+  * [FAQ sur Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft publiera des mises à jour pour ce système d’exploitation, y compris des mises à jour de sécurité, pendant une période de 36 mois à compter de la date de début du cycle de vie. Ces mises à jour seront incrémentielles, chacune intégrant celle qui l’a précédée. Les clients doivent toujours installer la dernière mise à jour afin de pouvoir assurer le maintien du support. La distribution de ces mises à jour incrémentielles peut être contrôlée par l’opérateur mobile ou le fabricant de téléphone auprès duquel vous avez acheté votre téléphone, et l’installation exigera que votre téléphone effectue des mises à jour préalables. La disponibilité des mises à jour peut également varier en fonction du pays, de la région et des capacités matérielles.
