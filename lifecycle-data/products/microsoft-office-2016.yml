@@ -1,31 +1,30 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2016
+  title: "Microsoft Office\_2016"
   description: Microsoft Office 2016 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
-  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
-  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930489"
-name: Microsoft Office 2016
-summary: >+
-  Microsoft Office 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  Cela s’applique aux éditions suivantes : Famille et Petite Entreprise, Famille et Étudiant, Personnel, Professionnel, Professionnel Plus, Standard
-
+  keywords: 'Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard'
+name: "Microsoft Office\_2016"
+summary: "Microsoft Office 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCela s’applique aux éditions suivantes\_: Famille et Petite Entreprise, Famille et Étudiant, Personnel, Professionnel, Professionnel Plus, Standard\n\n"
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Famille et Petite Entreprise\n* Famille et Étudiant\n* Personnel\n* Professionnel\n* Professionnel Plus\n* Standard"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>Éditions 
+  * Famille et Petite Entreprise
+  * Famille et Étudiant
+  * Personnel
+  * Professionnel
+  * Professionnel Plus
+  * Standard

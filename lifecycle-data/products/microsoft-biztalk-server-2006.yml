@@ -1,34 +1,34 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Server 2006
+  title: "Microsoft BizTalk Server\_2006"
   description: Microsoft BizTalk Server 2006 suit la politique de cycle de vie fixe.
   ms.date: 05/26/2021
-  keywords: 
-  ms.openlocfilehash: e30deb68709ce277c61081ba9b705317e371b799
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: fr-FR
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029540"
-name: Microsoft BizTalk Server 2006
-summary: >+
-  Microsoft BizTalk Server 2006 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-
-  Ceci s’applique aux éditions suivantes : Branch, Developer, Entreprise, Standard
-
-
-
+  keywords: null
+name: "Microsoft BizTalk Server\_2006"
+summary: "Microsoft BizTalk Server 2006 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\nCeci s’applique aux éditions suivantes\_: Branch, Developer, Entreprise, Standard\n\n\n\n"
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/23/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Original Release
-  startDate: 06/23/2006
-  endDate: 07/12/2016
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Éditions \n* Branch\n* Developer\n* Entreprise\n* Standard"
+  - version: Original Release
+    startDate: 06/23/2006
+    endDate: 07/12/2016
+content: |+
+
+
+  ## <a name="links"></a>Liens 
+  * [Conseils en matière de migration](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)
+  * [Politique du Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+
+
+  ## <a name="editions"></a>Éditions 
+  * Branch
+  * Developer
+  * Entreprise
+  * Standard
