@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 suit la politique de cycle de vie fixe.
-  ms.date: 09/01/2020
-  keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487188"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509248"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
 
 
-  Ceci s’applique aux éditions suivantes : Agents, Tous, Community, Express pour le Web, Express pour Windows, Express pour Windows Desktop, IntelliTrace Collector, Modeling SDK, Bibliothèque MFC multioctets, Premium, Professional, Release Management, Outils de contrôle à distance, SDK, Shell (Intégré), Shell (Isolé), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Extensions d’outils web
+
+  Ceci sʼapplique aux éditions suivantes : Community, Express pour le Web, Express pour Windows, Express pour Windows Desktop, Premium, Professional, Release Management, Test Professional et Ultimate
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Liens \n* [Informations de service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Éditions \n* Agents\n* tous\n* Community\n* Express pour le Web\n* Express pour Windows\n* Express pour Windows Desktop\n* Collecteur IntelliTrace\n* Modeling SDK\n* Bibliothèque MFC multioctets\n* Premium\n* Professionnel\n* Release Management\n* Outils de contrôle à distance\n* SDK\n* Shell (Intégré)\n* Shell (Isolé)\n* Team Explorer\n* Test Professional\n* Intégrale\n* Visual C++ Redistributable\n* Web Tools Extensions"
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Informations de service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Les versions Visual Studio 2013 des composants suivants sont livrées avec Visual Studio 2013 et prises en charge dans le cadre de son cycle de vie : Agents, Collecteur IntelliTrace, Modeling SDK, Bibliothèque MFC multioctets, Outils de contrôle à distance, SDK, Shell (intégré), Shell (isolé), Team Explorer, Visual C++ Redistributable et Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Éditions \n* Community\n* Express pour le Web\n* Express pour Windows\n* Express pour Windows Desktop\n* Premium\n* Professionnel\n* Release Management\n* Test Professional\n* Intégrale\n\n"
