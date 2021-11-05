@@ -2,14 +2,14 @@
 metadata:
   title: Windows 11 Entreprise et Éducation (version 21H2)
   description: Windows 11 Entreprise et Éducation (version 21H2) suit la politique de cycle de vie moderne.
-  ms.date: 09/22/2021
+  ms.date: 10/25/2021
   keywords: 
-  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: a2c2d968dde9ab777b9327f05c000015c2e8c00f
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509373"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546632"
 name: Windows 11 Entreprise et Éducation (version 21H2)
 summary: >+
   Windows 11 Entreprise et Éducation (version 21H2) suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [FAQ sur le cycle de vie - Windows](/lifecycle/faq/windows)\n* [Ressources Windows supplémentaires](/windows/resources/)\n* [Windows 11 IoT Entreprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Famille et Professionnel](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> À moins dʼêtre différées, les mises à jour des fonctionnalités ultérieures pour Windows 11 peuvent être installées avant la date de fin mentionnée du support standard.\n\n\n## <a name=\"editions\"></a>Éditions \n* Éducation\n* Entreprise\n\n"
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [FAQ sur le cycle de vie - Windows](/lifecycle/faq/windows)\n* [Ressources Windows supplémentaires](/windows/resources/)\n* [Windows 11 IoT Entreprise](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Famille et Professionnel](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> À moins dʼêtre différées, les mises à jour des fonctionnalités ultérieures pour Windows 11 peuvent être installées avant la date de fin mentionnée du support standard.\n\n\n## <a name=\"editions\"></a>Éditions \n* Éducation\n* Entreprise\n\n"

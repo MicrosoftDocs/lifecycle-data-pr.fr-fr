@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 suit la politique du cycle de vie des composants.
-  ms.date: 05/18/2021
-  keywords: 
-  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 11/03/2021
+  keywords: IE
+  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519748"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3559992"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 suit la politique du cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -30,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ sur le cycle de vie d’Internet Explorer/Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Systèmes d’exploitation pris en charge par Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Certaines versions d’Internet Explorer peuvent être prises en charge après la dernière date de fin du système d’exploitation Windows quand des mises à jour de sécurité étendues (ESU) sont disponibles. Consultez [ici](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) la liste des produits qui proposent des mises à jour ESU. \n\n\n\n"
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [FAQ sur le cycle de vie d’Internet Explorer/Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Systèmes d’exploitation pris en charge par Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Certaines versions d’Internet Explorer peuvent être prises en charge après la dernière date de fin du système d’exploitation Windows quand des mises à jour de sécurité étendues (ESU) sont disponibles. Consultez [ici](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) la liste des produits qui proposent des mises à jour ESU. \n\n\n\n"
