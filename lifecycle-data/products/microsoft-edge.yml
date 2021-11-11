@@ -2,16 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge suit la politique de cycle de vie moderne.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560055"
 name: Microsoft Edge
-summary: "Microsoft Edge suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).\n\n\n\n\n> [!IMPORTANT]\n> Le support pour la version héritée de ce produit prend fin le 9\_mars\_2021. Cliquez [ici](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) pour en savoir plus.\n\n"
+summary: >+
+  Microsoft Edge suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Le support pour la version héritée de ce produit prend fin le 9 mars 2021. Cliquez [ici](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) pour en savoir plus.
+
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [FAQ de cycle de vie - Internet Explorer et Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Politique de cycle de vie de\_Microsoft\_Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n\n\n\n"
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nouvelles ressources pour accélérer le passage à Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [FAQ de cycle de vie - Internet Explorer et Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Politique de cycle de vie de Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n\n\n\n"
