@@ -3,18 +3,32 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 suit la politique de cycle de vie fixe.
   ms.date: 07/09/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 8d681747bc516263f47b6900cbf90c5f915601ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134940"
 name: Windows Server 2016
-summary: "Windows Server 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\nCeci s’applique aux éditions suivantes\_: Datacenter, Essentials, MultiPoint Premium, Standard\n\n\n\n"
+summary: >+
+  Windows Server 2016 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+
+  Ceci s’applique aux éditions suivantes : Datacenter, Essentials, MultiPoint Premium, Standard
+
+
+
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/windows-server/get-started/server-basics)\n* [FAQ sur le cycle de vie - Produits Windows](/lifecycle/faq/windows)\n* [Cycles de vie de la maintenance des images de base de conteneur Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Les conteneurs publiés avec Windows\_Server\_2016 suivent les mêmes dates de cycle de vie.\n\n\n## <a name=\"editions\"></a>Éditions \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard\n\n"
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](/windows-server/get-started/server-basics)\n* [FAQ sur le cycle de vie - Produits Windows](/lifecycle/faq/windows)\n* [Cycles de vie de la maintenance des images de base de conteneur Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Les conteneurs publiés avec Windows Server 2016 suivent les mêmes dates de cycle de vie.\n\n\n## <a name=\"editions\"></a>Éditions \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard\n\n"

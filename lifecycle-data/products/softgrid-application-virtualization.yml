@@ -3,18 +3,33 @@ metadata:
   title: SoftGrid Application Virtualization
   description: SoftGrid Application Virtualization suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
-  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
+  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
+  ms.openlocfilehash: 6b63a556c63bca08045d0335bd9233a0ae07a878
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119844"
 name: SoftGrid Application Virtualization
-summary: "SoftGrid Application Virtualization suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: 4.1 pour Bureaux, 4.2 pour Bureaux, pour Terminal Services\_4.1\n\n> [!IMPORTANT]\n> Le support est terminé. Voir les conseils de migration ci-dessous.\n"
+summary: >
+  SoftGrid Application Virtualization suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+  Ceci s’applique aux éditions suivantes : 4.1 pour Bureaux, 4.2 pour Bureaux, pour Terminal Services 4.1
+
+
+  > [!IMPORTANT]
+
+  > Le support est terminé. Voir les conseils de migration ci-dessous.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 05/25/2007
-  end: 07/10/2012
-  extendedEnd: 07/11/2017
+  start: 2007-05-25T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
+  extendedEnd: 2017-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/25/2007
-    endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Éditions \n* 4.1 pour Bureaux\n* 4.2 pour Bureaux\n* pour Terminal Services\_4.1\n"
+- version: Original Release
+  startDate: 2007-05-25T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Éditions \n* 4.1 pour Bureaux\n* 4.2 pour Bureaux\n* pour Terminal Services 4.1\n"
