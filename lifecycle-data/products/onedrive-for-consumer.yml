@@ -1,0 +1,23 @@
+### YamlMime:Lifecycle
+metadata:
+  title: OneDrive consommateur
+  description: OneDrive consommateur suit la politique de cycle de vie moderne.
+  ms.date: 12/13/2021
+  keywords: 
+  ms.openlocfilehash: 261cce38eacc1db43d2be764b1aa9c959a52f751
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156266"
+name: OneDrive consommateur
+summary: "OneDrive consommateur suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).\n\n\n\n\n> [!IMPORTANT]\n> À compter du 1er janvier 2022, les mises à jour ne seront plus fournies pour l’application de bureau OneDrive sur les appareils Windows 7, 8 et 8.1 personnels. Cliquez [ici](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/end-of-support-for-onedrive-desktop-application-on-windows-7-8/ba-p/2929066) pour en savoir plus. \n\n"
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 2001-05-31T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2001-05-31T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Configuration requise](https://support.microsoft.com/office/onedrive-system-requirements-cc0cb2b8-f446-445c-9b52-d3c2627d681e)\n* [Notes de publication](https://support.microsoft.com/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0)\n* [Informations de service](/onedrive/sync-client-update-process)"

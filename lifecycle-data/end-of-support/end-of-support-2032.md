@@ -1,13 +1,13 @@
 ---
 title: Produits en fin de support en 2032
 description: Découvrez les produits qui sont mis hors service, atteignent la fin du support ou passent du support standard au support étendu en 2032.
-ms.date: 10/15/2021
-ms.openlocfilehash: ce028d97a7d8ba133cf639d3556d6dbd11728431
-ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+ms.date: 11/16/2021
+ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "4028288"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116736"
 ---
 # <a name="products-ending-support-in-2032"></a>Produits atteignant la fin du support en 2032
 
@@ -22,5 +22,12 @@ Si vous avez des questions concernant le support dʼun produit, veuillez contact
 
 
 
+## <a name="products-reaching-end-of-support"></a>Produits en fin de support
+
+Le support des produits et versions suivants, régis par la [politique fixe](/lifecycle/policies/fixed), prend fin en 2032.
+
+| Produit | Fin de support |
+| --- | --- |
+| [Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Entreprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | mardi 13 janvier 2032 |
 
 

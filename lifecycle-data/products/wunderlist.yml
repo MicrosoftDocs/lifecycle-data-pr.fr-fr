@@ -3,25 +3,23 @@ metadata:
   title: Wunderlist
   description: Wunderlist suit la politique de cycle de vie fixe.
   ms.date: 07/28/2020
+  ms.openlocfilehash: f68bc4dc553ae7ca987f7d581e5ae34af56f135a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4133978"
 name: Wunderlist
-summary: |
-  Wunderlist suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
-
-
-  > [!IMPORTANT]
-  > Le support de ce produit est soumis aux conditions d’acquisition applicables. Le support de ce produit a pris fin. Voir les conseils de migration ci-dessous. 
+summary: "Wunderlist suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Le support de ce produit est soumis aux conditions d’acquisition applicables. Le support de ce produit a pris fin. Voir les conseils de migration ci-dessous. \n"
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 06/02/2015
-  end: 05/06/2020
-  extendedEnd: 05/06/2020
+  start: 2015-06-02T00:00:00.000-08:00
+  end: 2020-05-06T22:59:59.999-08:00
+  extendedEnd: 2020-05-06T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/02/2015
-    endDate: 05/06/2020
-content: |+
-
-  ## <a name="links"></a>Liens 
-  * [Conseils en matière de migration](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
+- version: Original Release
+  startDate: 2015-06-02T00:00:00.000-08:00
+  endDate: 2020-05-06T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"

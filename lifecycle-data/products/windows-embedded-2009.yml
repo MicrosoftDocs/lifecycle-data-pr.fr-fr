@@ -1,20 +1,35 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Windows Embedded\_2009"
+  title: Windows Embedded 2009
   description: Windows Embedded 2009 suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
   keywords: Standard
-name: "Windows Embedded\_2009"
-summary: "Windows Embedded 2009 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Standard\n\n> [!IMPORTANT]\n> Le support est terminé. Voir les conseils de migration ci-dessous.\n"
+  ms.openlocfilehash: 6a6340bf0f3ff61d4d3d52c66743a76d274a4d85
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123618"
+name: Windows Embedded 2009
+summary: >
+  Windows Embedded 2009 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+  Ceci s’applique aux éditions suivantes : Standard
+
+
+  > [!IMPORTANT]
+
+  > Le support est terminé. Voir les conseils de migration ci-dessous.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 12/14/2008
-  end: 01/14/2014
-  extendedEnd: 01/08/2019
+  start: 2008-12-14T00:00:00.000-08:00
+  end: 2014-01-14T22:59:59.999-08:00
+  extendedEnd: 2019-01-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/14/2008
-    endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>Liens \n* [Fin du support pour Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows\_10 IoT Entreprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows\_10\_Professionnel](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard\n"
+- version: Original Release
+  startDate: 2008-12-14T00:00:00.000-08:00
+  endDate: 2019-01-08T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Liens \n* [Fin du support pour Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Entreprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Professionnel](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard\n"

@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11 sous Windows 10
+  description: Internet Explorer 11 sous Windows 10 suit la politique du cycle de vie des composants.
+  ms.date: 01/26/2022
+  keywords: IE11
+  ms.openlocfilehash: dcb7e8ea01f42d7b05b02e62b9ca48ab769ab27d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156308"
+name: Internet Explorer 11 sous Windows 10
+summary: >+
+  Internet Explorer 11 sous Windows 10 suit la politique du cycle de vie des [composants](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > L’application de bureau Internet Explorer (IE) 11 cessera de prendre en charge le canal semi-annuel de Windows 10 à compter du 15 juin 2022. Les clients sont encouragés à passer à Microsoft Edge avec le mode IE. Le mode IE permet une compatibilité descendante et sera pris en charge au moins jusqu’en 2029. En outre, Microsoft fournira un préavis d’un an avant de retirer le mode IE. Rendez-vous [ici](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) pour consulter une liste des systèmes d’exploitation pris en charge pour Internet Explorer, y compris les versions concernées par cette annonce.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [FAQ sur le cycle de vie d’Internet Explorer/Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Systèmes d’exploitation pris en charge par Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n\n\n\n"

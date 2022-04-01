@@ -1,29 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "InfoPath\_2013"
+  title: InfoPath 2013
   description: InfoPath 2013 suit la politique de cycle de vie fixe.
   ms.date: 09/10/2020
   keywords: Standard
-name: "InfoPath\_2013"
-summary: "InfoPath 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Standard\n\n"
+  ms.openlocfilehash: 809eeab7d95bf084c4392825aac93cf82151f317
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146891"
+name: InfoPath 2013
+summary: >+
+  InfoPath 2013 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+  Ceci s’applique aux éditions suivantes : Standard
+
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/09/2013
-    endDate: 07/14/2026
-content: |
-
-  ## <a name="links"></a>Liens 
-  * [Détails concernant le support](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
-
-  > [!NOTE]
-  > Le support de Microsoft InfoPath 2013 est étendu comme indiqué afin d’assurer la compatibilité avec SharePoint Server 2016.
-
-  ## <a name="editions"></a>Éditions 
-  * Standard
+- version: Original Release
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Liens \n* [Détails concernant le support](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Le support de Microsoft InfoPath 2013 est étendu comme indiqué afin d’assurer la compatibilité avec SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Éditions \n* Standard"

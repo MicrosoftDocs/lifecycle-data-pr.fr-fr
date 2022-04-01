@@ -1,25 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "PowerPoint\_2019"
+  title: PowerPoint 2019
   description: PowerPoint 2019 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Standard
-name: "PowerPoint\_2019"
-summary: "PowerPoint 2019 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Standard\n\n"
+  ms.openlocfilehash: d4e7b4894de336d690869e0497a62230de32a3ac
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124851"
+name: PowerPoint 2019
+summary: >+
+  PowerPoint 2019 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+  Ceci s’applique aux éditions suivantes : Standard
+
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
-  extendedEnd: 10/14/2025
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/14/2025
-content: |
-
-
-
-  ## <a name="editions"></a>Éditions 
-  * Standard
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Standard"

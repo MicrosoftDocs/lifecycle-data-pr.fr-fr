@@ -1,22 +1,32 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Microsoft\_Host\_Integration\_Server\_2020"
-  description: "Microsoft\_Host\_Integration\_Server\_2020 suit la politique de cycle de vie fixe."
-  ms.date: 11/02/2020
-  keywords: null
-name: "Microsoft\_Host\_Integration\_Server\_2020"
-summary: "Microsoft\_Host\_Integration\_Server\_2020 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\n\n"
+  title: Microsoft Host Integration Server 2020
+  description: Microsoft Host Integration Server 2020 suit la politique de cycle de vie fixe.
+  ms.date: 01/25/2022
+  keywords: HIS, BizTalk
+  ms.openlocfilehash: 2a2ac23b20a12566a10314c94062dc0d83c55cd4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107671"
+name: Microsoft Host Integration Server 2020
+summary: >+
+  Microsoft Host Integration Server 2020 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+
+
+
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 06/01/2020
-  end: 07/08/2025
-  extendedEnd: 07/09/2030
+  start: 2020-06-01T00:00:00.000-08:00
+  end: 2028-07-11T22:59:59.999-08:00
+  extendedEnd: 2030-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/01/2020
-content: |+
-
-  ## <a name="links"></a>Liens 
-  * [Informations sur le produit](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)
+- version: Original Release
+  startDate: 2020-06-01T00:00:00.000-08:00
+  endDate: 2030-07-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Informations sur le produit](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)\n\n\n> [!NOTE]\n> Le support courant a été étendu du 8 juillet 2025 au 11 juillet 2028. Cliquez [ici](https://aka.ms/Biztalk2020roadmap) pour en savoir plus."

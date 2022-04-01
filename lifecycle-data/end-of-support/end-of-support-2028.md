@@ -1,13 +1,13 @@
 ---
 title: Produits en fin de support en 2028
 description: Découvrez les produits qui sont mis hors service, atteignent la fin du support ou passent du support standard au support étendu en 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027978"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116958"
 ---
 # <a name="products-ending-support-in-2028"></a>Produits atteignant la fin du support en 2028
 
@@ -39,3 +39,11 @@ Le support des produits et versions suivants, régis par la [politique fixe](/li
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | mardi 11 juillet 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produits passant au support étendu
+
+Les produits suivants passeront du support standard au support étendu en 2028. Le support étendu inclut les mises à jour de sécurité sans frais, ainsi que le support et les mises à jour non liées à la sécurité payants. De plus, Microsoft nʼacceptera pas les demandes de modifications de conception ou de nouvelles fonctionnalités pendant la phase de support étendu.
+
+| Produit | Fin du support standard |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | mardi 11 avril 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | mardi 11 juillet 2028 |

@@ -4,22 +4,28 @@ metadata:
   description: Microsoft BizTalk Accelerator pour SWIFT 2.0 suit la politique de cycle de vie fixe.
   ms.date: 09/01/2020
   keywords: Enterprise
+  ms.openlocfilehash: 803b44cffd91a18b73c8e97bb1daac433481b90b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154735"
 name: Microsoft BizTalk Accelerator pour SWIFT 2.0
-summary: "Microsoft BizTalk Accelerator pour SWIFT 2.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).\n\nCeci s’applique aux éditions suivantes\_: Entreprise\n\n"
+summary: >+
+  Microsoft BizTalk Accelerator pour SWIFT 2.0 suit la politique de cycle de vie [fixe](/lifecycle/policies/fixed).
+
+
+  Ceci s’applique aux éditions suivantes : Entreprise
+
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 09/25/2004
-  end: 10/13/2009
-  extendedEnd: 10/14/2014
+  start: 2004-09-25T00:00:00.000-08:00
+  end: 2009-10-13T22:59:59.999-08:00
+  extendedEnd: 2014-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/25/2004
-    endDate: 10/14/2014
-content: |
-
-
-
-  ## <a name="editions"></a>Éditions 
-  * Entreprise
+- version: Original Release
+  startDate: 2004-09-25T00:00:00.000-08:00
+  endDate: 2014-10-14T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Éditions \n* Entreprise"
