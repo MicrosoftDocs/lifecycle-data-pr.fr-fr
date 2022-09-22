@@ -2,14 +2,14 @@
 metadata:
   title: Client classique Azure Information Protection
   description: Le client classique Azure Information Protection suit la politique de cycle de vie moderne.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156892"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518635"
 name: Client classique Azure Information Protection
 summary: >+
   Le client classique Azure Information Protection suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Informations de service](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Afin d’offrir une expérience client unifiée et simplifiée, le client Azure Information Protection (classique) et la gestion des étiquettes dans le portail Azure deviendront obsolètes le 31 mars 2021. Ce délai permet à tous les clients Azure Information Protection actuels de passer à notre solution d’étiquetage unifiée à l’aide de la plateforme d’étiquetage unifié Microsoft Information Protection."
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Informations de service](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Conseils en matière de migration](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Afin d’offrir une expérience client unifiée et simplifiée, le client Azure Information Protection (classique) et la gestion des étiquettes dans le portail Azure deviendront obsolètes le 31 mars 2021. Ce délai permet à tous les clients Azure Information Protection actuels de passer à notre plateforme d’étiquetage unifiée pour Microsoft Purview Information Protection.\n\n\n\n"

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project pour le web
+  description: Projet pour le Web suit la politique de cycle de vie moderne.
+  ms.date: 2022/07/15
+  keywords: 
+  ms.openlocfilehash: 76c65c5af2e2fcfbb8a6af6b74d76cbeaf0244bc
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519523"
+name: Project pour le web
+summary: >+
+  Projet pour le Web suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 2019-10-29T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2019-10-29T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Configuration requise](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [Informations de service](/officeupdates/update-history-microsoft365-apps-by-date)\n* [Documentation concernant le produit](/projectonline/project-online)\n* [Description du service Projet pour le Web](/office365/servicedescriptions/project-online-service-description/project-web-service-description)"

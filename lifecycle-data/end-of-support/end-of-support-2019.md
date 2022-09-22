@@ -1,13 +1,13 @@
 ---
 title: Produits en fin de support en 2019
 description: Découvrez les produits qui sont mis hors service, atteignent la fin du support ou passent du support standard au support étendu en 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4028304"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518228"
 ---
 # <a name="products-ending-support-in-2019"></a>Produits atteignant la fin du support en 2019
 
@@ -24,7 +24,6 @@ Les produits suivants, régis par la [politique moderne](/lifecycle/policies/mo
 
 | Produit | Retraites |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | 30 septembre 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | samedi 16 novembre 2019 |
 
 
@@ -34,6 +33,7 @@ Le support des versions de produits ci-dessous, régies par la [politique modern
 
 | Produit | Fin de maintenance |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | mercredi 13 février 2019 |
 | [Visual Studio pour Mac, Visual Studio 2017 pour Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 8 mars 2019 |
 | [Windows 10 Entreprise et Éducation version 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Famille et Professionnel version 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 loT Standard version 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise version 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server version 1709](/lifecycle/products/windows-server?branch=live)<br> | 9 avril 2019 |
 | [Microsoft Endpoint Configuration Manager version 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | lundi 20 mai 2019 |

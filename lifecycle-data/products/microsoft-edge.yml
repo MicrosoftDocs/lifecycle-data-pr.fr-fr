@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge suit la politique de cycle de vie moderne.
-  ms.date: 11/03/2021
-  keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 08/08/2022
+  keywords: IE ; navigateur ; Internet Explorer
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147742"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518487"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > Le support pour la version héritée de ce produit prend fin le 9 mars 2021. Cliquez [ici](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) pour en savoir plus.
-
+summary: "Microsoft Edge suit la politique de cycle de vie [moderne](/lifecycle/policies/modern).\n\n\n\n\n> [!IMPORTANT]\n> Microsoft Edge continuera d’être pris en charge sur Windows 7 et Windows Server 2008 R2 jusqu’au 15 janvier 2023. Microsoft recommande aux clients de passer à un système d’exploitation pris en charge tel que Windows 10. Cliquez [ici](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems) pour en savoir plus. \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>Liens \n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nouvelles ressources pour accélérer le passage à Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [FAQ de cycle de vie - Internet Explorer et Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Politique de cycle de vie de Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n\n\n\n"
+content: "\n\n## <a name=\"links\"></a>Liens \n* [Vue d’ensemble des canaux de maintenance Microsoft Edge](/deployedge/microsoft-edge-channels)\n* [Systèmes d’exploitation pris en charge par Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nouvelles ressources pour accélérer le passage à Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [FAQ de cycle de vie - Internet Explorer et Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Politique de cycle de vie de Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> Le support pour la version héritée de ce produit prend fin le 9 mars 2021. Cliquez [ici](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) pour en savoir plus.\n\n\n\n"
