@@ -1,13 +1,13 @@
 ---
 title: Produits en fin de support en 2021
 description: Découvrez les produits qui sont mis hors service, atteignent la fin du support ou passent du support standard au support étendu en 2021.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117476"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520830"
 ---
 # <a name="products-ending-support-in-2021"></a>Produits atteignant la fin du support en 2021
 
@@ -37,12 +37,12 @@ Le support des versions de produits ci-dessous, régies par la [politique modern
 | Produit | Fin de maintenance |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager version 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 janvier 2021 |
+| [Azure IoT Edge, version 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | lundi 1 février 2021 |
 | [Dynamics 365 Business Central, version locale (politique moderne), 2ème vague de lancement 2019, version 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 avril 2021 |
 | [Windows 10 Entreprise et Éducation version 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Entreprise et Éducation version 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Famille et Professionnel version 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Entreprise version 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Entreprise version 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server version 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 mai 2021 |
-| [Microsoft Endpoint Configuration Manager version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | samedi 29 mai 2021 |
+| [Microsoft Endpoint Configuration Manager version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | samedi 29 mai 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | samedi 21 août 2021 |
 | [Microsoft Endpoint Configuration Manager, version 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1er octobre 2021 |
-| [Dynamics 365 Business Central, version locale (politique moderne), 1re vague de lancement 2020, version 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 octobre 2021 |
 | [Windows 10 Entreprise et Éducation version 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Famille et Professionnel version 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Entreprise version 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server version 2004](/lifecycle/products/windows-server?branch=live)<br> | 14 décembre 2021 |
 
 
