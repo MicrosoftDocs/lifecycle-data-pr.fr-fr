@@ -1,13 +1,13 @@
 ---
 title: Produits en fin de support en 2025
 description: Découvrez les produits qui sont mis hors service, atteignent la fin du support ou passent du support standard au support étendu en 2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517906"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526153"
 ---
 # <a name="products-ending-support-in-2025"></a>Produits atteignant la fin du support en 2025
 
@@ -27,6 +27,13 @@ Les produits suivants, régis par la [politique moderne](/lifecycle/policies/mo
 | [Windows 10 Entreprise et Éducation](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Famille et Professionnel](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Entreprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 octobre 2025 |
 
 
+## <a name="release-end-of-servicing"></a>Fin de maintenance de versions
+
+Le support des versions de produits ci-dessous, régies par la [politique moderne](/lifecycle/policies/modern), prendra fin en 2025.
+
+| Produit | Fin de maintenance |
+| --- | --- |
+| [Windows 11 Entreprise et Éducation, version 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Entreprise, version 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 octobre 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produits en fin de support
