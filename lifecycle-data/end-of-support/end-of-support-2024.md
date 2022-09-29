@@ -1,13 +1,13 @@
 ---
 title: Produits en fin de support en 2024
 description: Découvrez les produits qui sont mis hors service, atteignent la fin du support ou passent du support standard au support étendu en 2024.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518087"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526938"
 ---
 # <a name="products-ending-support-in-2024"></a>Produits atteignant la fin du support en 2024
 
@@ -34,8 +34,10 @@ Le support des versions de produits ci-dessous, régies par la [politique modern
 
 | Produit | Fin de maintenance |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, version 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | lundi 12 février 2024 |
 | [Windows 10 Entreprise et Éducation (version 21H2)](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Entreprise (version 21H2)](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | mardi 11 juin 2024 |
-| [Windows 11 Entreprise et Éducation (version 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (version 21H2), version d’origine (version 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 octobre 2024 |
+| [Windows 11 Entreprise et Éducation, version 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Entreprise, version 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 octobre 2024 |
+| [Windows 11 Famille et Professionnel, version 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | lundi 14 octobre 2024 |
 | [PowerShell, PowerShell 7.2 (LTS-current)](/lifecycle/products/powershell?branch=live)<br> | vendredi 8 novembre 2024 |
 | [Azure IoT Edge, version 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | mardi 12 novembre 2024 |
 
